@@ -1,6 +1,6 @@
 | project | image | info |
 | --- | --- | --- |
-|cnc-workholding|[](./cnc-workholding/preview.png)| placeholder README.md file for cnc-workholding|
+|cnc-workholding|[](cnc-workholding/preview.png)| placeholder README.md file for cnc-workholding|
 |veneer-spool-holder|[](./veneer-spool-holder/preview.png)| placeholder README.md file for veneer-spool-holder|
 |framing-square-caliper|[](./framing-square-caliper/preview.png)| placeholder README.md file for framing-square-caliper|
 |zip-tie-mounts|[](./zip-tie-mounts/preview.png)| placeholder README.md file for zip-tie-mounts|
