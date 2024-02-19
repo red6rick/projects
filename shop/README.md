@@ -1,7 +1,7 @@
 | project | image | info |
 | --- | --- | --- |
 |cnc-workholding| ![](/shop/cnc-workholding/preview.png) | placeholder README.md file for cnc-workholding|
-|veneer-spool-holder|[](./veneer-spool-holder/preview.png)| placeholder README.md file for veneer-spool-holder|
+|veneer-spool-holder| <img src="shop/cnc-workholding/preview.png" height="100"> | placeholder README.md file for veneer-spool-holder|
 |framing-square-caliper|[](./framing-square-caliper/preview.png)| placeholder README.md file for framing-square-caliper|
 |zip-tie-mounts|[](./zip-tie-mounts/preview.png)| placeholder README.md file for zip-tie-mounts|
 |drill-press-table|[](./drill-press-table/preview.png)| placeholder README.md file for drill-press-table|
