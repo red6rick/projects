@@ -1,0 +1,40 @@
+#!/bin/sh
+
+# rcvn 19feb2024
+# build a README.md file as an index to all first-level subfolders.
+# each subfolder is assumed to contain a README.md file of its own,
+# and a preview.png file to display a, duh, preview.
+# the first "paragraph" of README.md file is taken as a description
+# for the index. No subfolder name is allowed to have spaces in it
+# just to make my life easier.
+
+foo() { gawk '
+    BEGIN {
+        FS = "/";
+        IGNORECASE = 1;
+        print "| project | image | info |"
+        print "| :--- | :---: | :--- |"
+    }
+    {
+        dirname = $2;
+        projectname = gensub(/-/," ","g",dirname);
+        projectlink = "[" projectname "](" dirname ")";
+        path = "./" dirname "/";
+        image = "<img src=\"" dirname "/preview.png\" height=\"100\">";
+        readme = path "readme.md";
+        info = "";
+        
+        while ((getline line < readme) > 0) {
+            if (length(line) == 0) {
+                break;
+            } else {
+                info = info " " line;
+            }
+        }
+        close(readme);
+        printf("|%s| %s |%s|\n",projectlink,image,info);
+    }
+    '
+}
+
+find .  -type d -maxdepth 1 -mindepth 1 -print | foo > README.md
