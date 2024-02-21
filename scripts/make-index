@@ -20,7 +20,7 @@ foo() { gawk '
         projectname = gensub(/-/," ","g",dirname);
         projectlink = "[" projectname "](" dirname ")";
         path = "./" dirname "/";
-        image = "<img src=\"" dirname "/preview.png\" height=\"100\">";
+        image = "[<img src=\"" dirname "/preview.png\" height=\"100\">](" dirname ")";
         readme = path "readme.md";
         info = "";
         
