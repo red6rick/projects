@@ -16,8 +16,7 @@
 |[tv lift](tv-lift)| [<img src="tv-lift/preview.png" height="100">](tv-lift) | A custom TV lift mechanism for my RV. It utilizes a car window winder motor and standard drawer slides to pick up the TV. Its depth is only about 4.5 inches overall, the width is about 4 inches wider than the TV, the height is about 8 inches more than the TV.|
 |[drawer dividers](drawer dividers)| [<img src="drawer dividers/preview.png" height="100">](drawer dividers) ||
 |[cpap hose retainer clip](cpap-hose-retainer-clip)| [<img src="cpap-hose-retainer-clip/preview.png" height="100">](cpap-hose-retainer-clip) | I need a CPAP machine, and I keep mine in the cabinet above the head of my bed in the RV. The hose drops down through a hole drilled in the bottom of the cabinet. This clip keeps the hose at a fixed drop-down length.|
-|[funnel](funnel)| [<img src="funnel/preview.png" height="100">](funnel) ||
 |[cat food storage](cat food storage)| [<img src="cat food storage/preview.png" height="100">](cat food storage) ||
-|[compliant latch](compliant latch)| [<img src="compliant latch/preview.png" height="100">](compliant latch) ||
+|[hinged lid latch](hinged-lid-latch)| [<img src="hinged-lid-latch/preview.png" height="100">](hinged-lid-latch) | A simple latch to hold up a hinged lid.|
 |[sonos mount](sonos mount)| [<img src="sonos mount/preview.png" height="100">](sonos mount) ||
 |[wall hangers](wall-hangers)| [<img src="wall-hangers/preview.png" height="100">](wall-hangers) ||
