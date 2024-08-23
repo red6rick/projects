@@ -7,7 +7,7 @@
 |[toaster oven](toaster-oven)| [<img src="toaster-oven/preview.png" height="100">](toaster-oven) ||
 |[battery box](battery box)| [<img src="battery box/preview.png" height="100">](battery box) ||
 |[cable management](cable-management)| [<img src="cable-management/preview.png" height="100">](cable-management) | A 3M-command strip mountable ring for managing USB etc. cables.|
-|[picnic table clips](picnic-table-clips)| [<img src="picnic-table-clips/preview.png" height="100">](picnic-table-clips) ||
+|[picnic table clips](picnic-table-clips)| [<img src="picnic-table-clips/preview.png" height="100">](picnic-table-clips) | Simple clips to hold a tablecloth to a picnic table.|
 |[rv refer fan cover](rv refer fan cover)| [<img src="rv refer fan cover/preview.png" height="100">](rv refer fan cover) ||
 |[furniture](furniture)| [<img src="furniture/preview.png" height="100">](furniture) | Various furniture projects for my RV. Mostly in Sketchup 2017.|
 |[laundry bag hook](laundry bag hook)| [<img src="laundry bag hook/preview.png" height="100">](laundry bag hook) ||
