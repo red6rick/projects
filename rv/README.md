@@ -2,13 +2,13 @@
 | :--- | :---: | :--- |
 |[Flagpole Buddy](Flagpole-Buddy)| [<img src="Flagpole-Buddy/preview.png" height="100">](Flagpole-Buddy) | Accessories and storage solutions for Flagpole Buddy.|
 |[drawer stop](drawer stop)| [<img src="drawer stop/preview.png" height="100">](drawer stop) ||
+|[Circular AC Vent Cover](Circular-AC-Vent-Cover)| [<img src="Circular-AC-Vent-Cover/preview.png" height="100">](Circular-AC-Vent-Cover) | This is a design for a circular AC vent cover, replacing the factory vents in our RV. The nominal vent size is 137mm (5-3/8 inches).|
 |[rv refer door block](rv-refer-door-block)| [<img src="rv-refer-door-block/preview.png" height="100">](rv-refer-door-block) | A small clip to block the doors of an RV refer open when the RV is in storage and the refer is off.|
 |[toaster oven](toaster-oven)| [<img src="toaster-oven/preview.png" height="100">](toaster-oven) ||
 |[battery box](battery box)| [<img src="battery box/preview.png" height="100">](battery box) ||
 |[cable management](cable-management)| [<img src="cable-management/preview.png" height="100">](cable-management) | A 3M-command strip mountable ring for managing USB etc. cables.|
 |[picnic table clips](picnic-table-clips)| [<img src="picnic-table-clips/preview.png" height="100">](picnic-table-clips) ||
 |[rv refer fan cover](rv refer fan cover)| [<img src="rv refer fan cover/preview.png" height="100">](rv refer fan cover) ||
-|[ac ducts](ac ducts)| [<img src="ac ducts/preview.png" height="100">](ac ducts) ||
 |[furniture](furniture)| [<img src="furniture/preview.png" height="100">](furniture) | Various furniture projects for my RV. Mostly in Sketchup 2017.|
 |[laundry bag hook](laundry bag hook)| [<img src="laundry bag hook/preview.png" height="100">](laundry bag hook) ||
 |[kitchen island](kitchen island)| [<img src="kitchen island/preview.png" height="100">](kitchen island) ||
