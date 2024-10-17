@@ -1,1 +1,5 @@
-Simple 3/4 inch bench dogs with 4 different offsets.
+Simple customizable bench dog for a CNC spoilboard.
+
+The diameter and depth of the post are adjustable; the four sides and height
+of the shoe are independently adjustable.
+
