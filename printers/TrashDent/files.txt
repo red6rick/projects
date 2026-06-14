@@ -1,0 +1,1056 @@
+.
+./Trashbin Assembly.FCStd
+./Trashbin Trident
+./Trashbin Trident/2020v pinned gantry-2020v xy jointxy top.step
+./Trashbin Trident/cad
+./Trashbin Trident/cad/2020 vgroove.FCStd
+./Trashbin Trident/cad/mgn12h z carriage trim.FCStd
+./Trashbin Trident/cad/pei plate references.20250103-160430.FCBak
+./Trashbin Trident/cad/2020v pinned gantry-2020v xy joint right2020v bottom.step
+./Trashbin Trident/cad/2020v ab drives.20241216-221046.FCBak
+./Trashbin Trident/cad/assembly test.FCStd
+./Trashbin Trident/cad/2020v pinned gantry.20250101-202039.FCBak
+./Trashbin Trident/cad/mgn12c Pinned x carriage.FCStd
+./Trashbin Trident/cad/2020v pinned gantry.FCStd
+./Trashbin Trident/cad/mgn12 z rear bed support.FCStd
+./Trashbin Trident/cad/2020v rear vertical brace left.step
+./Trashbin Trident/cad/beefy front idlers.FCStd
+./Trashbin Trident/cad/2020v drilling jig.20241215-135118.FCBak
+./Trashbin Trident/cad/2020v ab drive units.20241214-190800.FCBak
+./Trashbin Trident/cad/2020v drilling jig.FCStd
+./Trashbin Trident/cad/2020v pinned gantry-2020v xy joint leftxy bottom.step
+./Trashbin Trident/cad/trident z carriage for mgn12h.FCStd
+./Trashbin Trident/cad/pei plate references.FCStd
+./Trashbin Trident/cad/mgn12 z rear bed support.20250102-113712.FCBak
+./Trashbin Trident/cad/mgn12h z carriage rear.FCStd
+./Trashbin Trident/cad/2020v xy joint right test.step
+./Trashbin Trident/cad/beefy front idlers.20250103-102446.FCBak
+./Trashbin Trident/cad/mgn12 z left bed support.FCStd
+./Trashbin Trident/cad/2020 vgroove.20241214-170219.FCBak
+./Trashbin Trident/cad/beefy idlers.FCStd
+./Trashbin Trident/cad/skirt parts.FCStd
+./Trashbin Trident/cad/2020v ab drives.FCStd
+./Trashbin Trident/cad/2020v rear vertical braces.20250101-104143.FCBak
+./Trashbin Trident/cad/2020v xy joint right top.step
+./Trashbin Trident/cad/2020v rear vertical braces.FCStd
+./Trashbin Trident/cad/2020v xy joint right bottom.step
+./Trashbin Trident/cad/beefy front idlers-clip-in carrierBody.step
+./Trashbin Trident/cad/2020v tap.FCStd
+./Trashbin Trident/cad/2020v tap.20241215-215233.FCBak
+./Trashbin Trident/Unnamed1.20241230-201840.FCBak
+./Trashbin Trident/Voron2_4 and Trident Pins Mod-hartk1213.zip
+./Trashbin Trident/z-axis-lead-screw-coupler-5mm-to-8mm-for-ender-aquila-model_files.zip
+./Trashbin Trident/2020v ab drives-2020v pinned a drive upper.step
+./Trashbin Trident/2020v ab drives-2020v pinned b drive lower.step
+./Trashbin Trident/z-axis-lead-screw-coupler-5mm-to-8mm-for-ender-aquila-model_files
+./Trashbin Trident/z-axis-lead-screw-coupler-5mm-to-8mm-for-ender-aquila-model_files/332254-z-axis-lead-screw-coupler-5mm-to-8mm-for-ender-aquila-9f85e89e-992b-42f6-9553-5f1caeff1da9.pdf
+./Trashbin Trident/z-axis-lead-screw-coupler-5mm-to-8mm-for-ender-aquila-model_files/Lead_Screw_Coupler_V6.STL
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/CAD
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/CAD/Z_Idlers
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/CAD/Z_Idlers/z_Idler_pinned.step
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/CAD/Gantry
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/CAD/Gantry/Front_Idlers
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/CAD/Gantry/Front_Idlers/[a]_tensioner_right_pinned.step
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/CAD/Gantry/Front_Idlers/[a]_tensioner_left_pinned.step
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/CAD/Gantry/V24R2_Gantry_PinsMod.step
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/CAD/Gantry/TridentR1_Gantry_PinsMod.step
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/CAD/Gantry/X_Axis
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/CAD/Gantry/X_Axis/XY_Joints
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/CAD/Gantry/X_Axis/XY_Joints/xy_joint_right_pinned.step
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/CAD/Gantry/X_Axis/XY_Joints/xy_joint_left_pinned.step
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/CAD/Gantry/AB_Drive_Units
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/CAD/Gantry/AB_Drive_Units/a_drive_frame_lower_pinned.step
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/CAD/Gantry/AB_Drive_Units/b_drive_frame_upper_pinned.step
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/CAD/Gantry/AB_Drive_Units/b_drive_frame_lower_pinned.step
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/CAD/Gantry/AB_Drive_Units/a_drive_frame_upper_pinned.step
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/README.md
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/STLs
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Z_Idlers
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Z_Idlers/[a]_z_tensioner_x4_9mm_pinned.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Z_Idlers/[a]_z_tensioner_x4_6mm_pinned.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/Front_Idlers
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/Front_Idlers/[a]_a_tensioner_pinned.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/Front_Idlers/Old(24r1)
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/Front_Idlers/Old(24r1)/[a]_b_tensioner_pinned_24r2.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/Front_Idlers/Old(24r1)/[a]_a_tensioner_pinned.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/Front_Idlers/Old(24r1)/[a]_a_tensioner_pinned_24r2.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/Front_Idlers/Old(24r1)/[a]_b_tensioner_pinned.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/Front_Idlers/[a]_b_tensioner_pinned.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/X_Axis
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/X_Axis/XY_Joints
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/X_Axis/XY_Joints/MGN12_xy_joint_left_upper_pinned.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/X_Axis/XY_Joints/MGN12_xy_joint_right_lower_pinned.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/X_Axis/XY_Joints/Old(24r1)
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/X_Axis/XY_Joints/Old(24r1)/xy_joint_left_lower_pinned.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/X_Axis/XY_Joints/Old(24r1)/MGN12_xy_joint_right_lower_pinned_no_wire_path.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/X_Axis/XY_Joints/Old(24r1)/MGN12_xy_joint_left_upper_pinned.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/X_Axis/XY_Joints/Old(24r1)/MGN12_xy_joint_right_lower_pinned.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/X_Axis/XY_Joints/Old(24r1)/MGN12_xy_joint_left_upper_pinned_24r2.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/X_Axis/XY_Joints/Old(24r1)/xy_joint_right_lower_pinned.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/X_Axis/XY_Joints/Old(24r1)/MGN12_xy_joint_right_upper_pinned_24r2.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/X_Axis/XY_Joints/Old(24r1)/MGN12_xy_joint_right_lower_pinned_24r2.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/X_Axis/XY_Joints/Old(24r1)/xy_joint_left_upper_pinned.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/X_Axis/XY_Joints/Old(24r1)/MGN12_xy_joint_right_upper_pinned_no_wire_path.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/X_Axis/XY_Joints/Old(24r1)/xy_joint_right_upper_pinned.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/X_Axis/XY_Joints/Old(24r1)/MGN12_xy_joint_left_lower_pinned.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/X_Axis/XY_Joints/Old(24r1)/MGN12_xy_joint_right_upper_pinned.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/X_Axis/XY_Joints/Old(24r1)/MGN12_xy_joint_left_lower_pinned_24r2.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/X_Axis/XY_Joints/MGN12_xy_joint_left_lower_pinned.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/X_Axis/XY_Joints/MGN12_xy_joint_right_upper_pinned.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/AB_Drive_Units
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/AB_Drive_Units/Trident
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/AB_Drive_Units/Trident/a_drive_frame_upper_pinned.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/AB_Drive_Units/Trident/b_drive_frame_upper_pinned.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/AB_Drive_Units/Trident/b_drive_frame_lower_pinned.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/AB_Drive_Units/Trident/a_drive_frame_lower_pinned.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/AB_Drive_Units/Trident/a_drive_frame_upper_with_jst_y_endstop_pinned.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/AB_Drive_Units/V2
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/AB_Drive_Units/V2/a_drive_frame_upper_pinned.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/AB_Drive_Units/V2/b_drive_frame_upper_pinned.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/AB_Drive_Units/V2/Old(24r1)
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/AB_Drive_Units/V2/Old(24r1)/a_drive_frame_upper_pinned.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/AB_Drive_Units/V2/Old(24r1)/a_drive_frame_upper_with_jst_y_endstop_pinned24r2.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/AB_Drive_Units/V2/Old(24r1)/a_drive_frame_lower_pinned24r2.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/AB_Drive_Units/V2/Old(24r1)/b_drive_frame_lower_pinned24r2.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/AB_Drive_Units/V2/Old(24r1)/b_drive_frame_upper_pinned.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/AB_Drive_Units/V2/Old(24r1)/b_drive_frame_lower_pinned.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/AB_Drive_Units/V2/Old(24r1)/b_drive_frame_upper_pinned24r2.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/AB_Drive_Units/V2/Old(24r1)/a_drive_frame_upper_pinned24r2.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/AB_Drive_Units/V2/Old(24r1)/a_drive_frame_lower_pinned.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/AB_Drive_Units/V2/Old(24r1)/a_drive_frame_upper_with_jst_y_endstop_pinned.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/AB_Drive_Units/V2/b_drive_frame_lower_pinned.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/AB_Drive_Units/V2/a_drive_frame_lower_pinned.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/AB_Drive_Units/V2/a_drive_frame_upper_with_jst_y_endstop_pinned.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/Images
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/Images/1.jpg
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/Images/ADrive
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/Images/ADrive/1.png
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/Images/ADrive/4.png
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/Images/ADrive/2.png
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/Images/ADrive/3.png
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/Images/2.jpg
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/Images/4.png
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/Images/2.png
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/Images/z.jpg
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213/Images/3.png
+./Trashbin Trident/beefy idlers-trident beefy idler.step
+./Trashbin Trident/trident pinned gantry original.FCStd
+./Trashbin Trident/VoronBFI
+./Trashbin Trident/VoronBFI/CAD
+./Trashbin Trident/VoronBFI/CAD/BFI.step
+./Trashbin Trident/VoronBFI/CAD/BZI.step
+./Trashbin Trident/VoronBFI/README.md
+./Trashbin Trident/VoronBFI/usermods
+./Trashbin Trident/VoronBFI/usermods/README.md
+./Trashbin Trident/VoronBFI/usermods/telxoid
+./Trashbin Trident/VoronBFI/usermods/telxoid/CAD
+./Trashbin Trident/VoronBFI/usermods/telxoid/CAD/BFI_V2_VT_Grippy_Carrier.step
+./Trashbin Trident/VoronBFI/usermods/telxoid/CAD/BFI_V2_VT_Logo.step
+./Trashbin Trident/VoronBFI/usermods/telxoid/README.md
+./Trashbin Trident/VoronBFI/usermods/telxoid/images
+./Trashbin Trident/VoronBFI/usermods/telxoid/images/carrier.png
+./Trashbin Trident/VoronBFI/usermods/telxoid/images/logo.front.png
+./Trashbin Trident/VoronBFI/usermods/telxoid/images/carrier_bottom.png
+./Trashbin Trident/VoronBFI/usermods/telxoid/STL
+./Trashbin Trident/VoronBFI/usermods/telxoid/STL/BFI_V2_VT_Grippy_Carrier.stl
+./Trashbin Trident/VoronBFI/usermods/telxoid/STL/[a]_BFI_V2_VT_Front_Logo_insert.stl
+./Trashbin Trident/VoronBFI/usermods/telxoid/STL/BFI_V2_VT_Front_Logo.stl
+./Trashbin Trident/VoronBFI/usermods/hartk
+./Trashbin Trident/VoronBFI/usermods/hartk/CounterSunk_MicronBZI
+./Trashbin Trident/VoronBFI/usermods/hartk/CounterSunk_MicronBZI/CAD
+./Trashbin Trident/VoronBFI/usermods/hartk/CounterSunk_MicronBZI/CAD/Micron_BZI_CounterSunk_Spacer.step
+./Trashbin Trident/VoronBFI/usermods/hartk/CounterSunk_MicronBZI/STLs
+./Trashbin Trident/VoronBFI/usermods/hartk/CounterSunk_MicronBZI/STLs/Micron_BZI_CounterSunkSpacer_MMU.stl
+./Trashbin Trident/VoronBFI/usermods/hartk/CounterSunk_MicronBZI/STLs/Micron_BZI_CounterSunkSpacer.stl
+./Trashbin Trident/VoronBFI/usermods/LillianaMirrors
+./Trashbin Trident/VoronBFI/usermods/LillianaMirrors/CAD
+./Trashbin Trident/VoronBFI/usermods/LillianaMirrors/CAD/BZI-Chaoticlab Idlers V2.4.step
+./Trashbin Trident/VoronBFI/usermods/LillianaMirrors/readme.md
+./Trashbin Trident/VoronBFI/usermods/LillianaMirrors/STLs
+./Trashbin Trident/VoronBFI/usermods/LillianaMirrors/STLs/BZI 2.4 for 14mm Idlers.3mf
+./Trashbin Trident/VoronBFI/usermods/AMFkuna
+./Trashbin Trident/VoronBFI/usermods/AMFkuna/Readme.md
+./Trashbin Trident/VoronBFI/usermods/AMFkuna/BFI_V2_VT_Grippy_Carrier M3.stl
+./Trashbin Trident/VoronBFI/usermods/AMFkuna/BFI_V2_VT_Front_Logo M3.stl
+./Trashbin Trident/VoronBFI/usermods/Tetsu
+./Trashbin Trident/VoronBFI/usermods/Tetsu/Symetrical BFI
+./Trashbin Trident/VoronBFI/usermods/Tetsu/Symetrical BFI/CAD
+./Trashbin Trident/VoronBFI/usermods/Tetsu/Symetrical BFI/CAD/BFI Symetric.step
+./Trashbin Trident/VoronBFI/usermods/Tetsu/Symetrical BFI/README.md
+./Trashbin Trident/VoronBFI/usermods/Tetsu/Symetrical BFI/STLs
+./Trashbin Trident/VoronBFI/usermods/Tetsu/Symetrical BFI/STLs/BFI-VT_Housing_Symmetrical_x2.stl
+./Trashbin Trident/VoronBFI/usermods/Tetsu/Symetrical BFI/STLs/[a]_BFI_Carrier_BHCS_M5_Symmetrical_x2.stl
+./Trashbin Trident/VoronBFI/usermods/Tetsu/Symetrical BFI/STLs/BFI-V2.4_Housing_Symmetrical_x2.stl
+./Trashbin Trident/VoronBFI/usermods/Tetsu/Symetrical BFI/STLs/[a]_BFI_Front_with_Logo_M3_Symmetrical_x2.stl
+./Trashbin Trident/VoronBFI/usermods/Tetsu/Symetrical BFI/STLs/[a]_BFI_Front_with_Logo_M5_Symmetrical_x2.stl
+./Trashbin Trident/VoronBFI/usermods/Tetsu/Symetrical BFI/STLs/[a]_BFI_Front_M3_Symmetrical_x2.stl
+./Trashbin Trident/VoronBFI/usermods/Tetsu/Symetrical BFI/STLs/[a]_BFI_Carrier_M5_Symmetrical_x2.stl
+./Trashbin Trident/VoronBFI/usermods/Tetsu/Symetrical BFI/STLs/[a]_BFI_Carrier_M3_Symmetrical_x2.stl
+./Trashbin Trident/VoronBFI/usermods/Tetsu/Symetrical BFI/STLs/[a]_BFI_Front_M5_Symmetrical_x2.stl
+./Trashbin Trident/VoronBFI/usermods/Tetsu/Symetrical BFI/STLs/[a]_BFI_Carrier_BHCS_M3_Symmetrical_x2.stl
+./Trashbin Trident/VoronBFI/usermods/Tetsu/Symetrical BFI/images
+./Trashbin Trident/VoronBFI/usermods/Tetsu/Symetrical BFI/images/hlavicka.png
+./Trashbin Trident/VoronBFI/usermods/GiulianoM
+./Trashbin Trident/VoronBFI/usermods/GiulianoM/CAD
+./Trashbin Trident/VoronBFI/usermods/GiulianoM/CAD/BZI_Doomcube_4040 v4.step
+./Trashbin Trident/VoronBFI/usermods/GiulianoM/CAD/BZI_Doomcube_4040 v4.f3d
+./Trashbin Trident/VoronBFI/usermods/GiulianoM/readme.md
+./Trashbin Trident/VoronBFI/usermods/GiulianoM/STLs
+./Trashbin Trident/VoronBFI/usermods/GiulianoM/STLs/BZI_DoomCube_4040_Idler_Body_B.stl
+./Trashbin Trident/VoronBFI/usermods/GiulianoM/STLs/BZI_DoomCube_4040_Idler_Body_A.stl
+./Trashbin Trident/VoronBFI/usermods/GiulianoM/Pictures
+./Trashbin Trident/VoronBFI/usermods/GiulianoM/Pictures/CAD_Front.png
+./Trashbin Trident/VoronBFI/usermods/GiulianoM/Pictures/Installed.png
+./Trashbin Trident/VoronBFI/usermods/GiulianoM/Pictures/CAD_Back.png
+./Trashbin Trident/VoronBFI/usermods/Jadecky
+./Trashbin Trident/VoronBFI/usermods/Jadecky/CAD
+./Trashbin Trident/VoronBFI/usermods/Jadecky/CAD/BZI_Micron_Pin_Mod.step
+./Trashbin Trident/VoronBFI/usermods/Jadecky/CAD/BFI_Micron_Pin_Mod.step
+./Trashbin Trident/VoronBFI/usermods/Jadecky/README.md
+./Trashbin Trident/VoronBFI/usermods/Jadecky/STLs
+./Trashbin Trident/VoronBFI/usermods/Jadecky/STLs/Pin Mod_Micron
+./Trashbin Trident/VoronBFI/usermods/Jadecky/STLs/Pin Mod_Micron/BFI
+./Trashbin Trident/VoronBFI/usermods/Jadecky/STLs/Pin Mod_Micron/BFI/[a]_Front_Idler_Pin_Mod_x2.stl
+./Trashbin Trident/VoronBFI/usermods/Jadecky/STLs/Pin Mod_Micron/BZI
+./Trashbin Trident/VoronBFI/usermods/Jadecky/STLs/Pin Mod_Micron/BZI/[a]_Idler_Carrier_Pin_Mod_x4.stl
+./Trashbin Trident/VoronBFI/usermods/Jadecky/STLs/Non Symmetrical Bodies
+./Trashbin Trident/VoronBFI/usermods/Jadecky/STLs/Non Symmetrical Bodies/Idler_Body_R_x2.stl
+./Trashbin Trident/VoronBFI/usermods/Jadecky/STLs/Non Symmetrical Bodies/Idler_Body_L_x2.stl
+./Trashbin Trident/VoronBFI/usermods/Jadecky/STLs/Pin Mod
+./Trashbin Trident/VoronBFI/usermods/Jadecky/STLs/Pin Mod/(a)_Idler_Carrier_Pin_Mod_x4.stl
+./Trashbin Trident/VoronBFI/usermods/Jadecky/STLs/Non Symmetrical BZI Idler Bodies
+./Trashbin Trident/VoronBFI/usermods/Jadecky/STLs/Non Symmetrical BZI Idler Bodies/Idler_Body_R_x2.stl
+./Trashbin Trident/VoronBFI/usermods/Jadecky/STLs/Non Symmetrical BZI Idler Bodies/Idler_Body_L_x2.stl
+./Trashbin Trident/VoronBFI/usermods/Jadecky/Images
+./Trashbin Trident/VoronBFI/usermods/Jadecky/Images/Pin_Mod.png
+./Trashbin Trident/VoronBFI/usermods/Jadecky/Images/BFI_Pin_Mod.png
+./Trashbin Trident/VoronBFI/usermods/Jadecky/Images/Non_Symetrical.png
+./Trashbin Trident/VoronBFI/usermods/Jadecky/Images/BZI_Pin_Mod.png
+./Trashbin Trident/VoronBFI/usermods/DonaldSayers
+./Trashbin Trident/VoronBFI/usermods/DonaldSayers/CAD
+./Trashbin Trident/VoronBFI/usermods/DonaldSayers/CAD/BFI V2.4 better printability 45 degree.step
+./Trashbin Trident/VoronBFI/usermods/DonaldSayers/README.md
+./Trashbin Trident/VoronBFI/usermods/DonaldSayers/images
+./Trashbin Trident/VoronBFI/usermods/DonaldSayers/images/45_degree.png
+./Trashbin Trident/VoronBFI/usermods/DonaldSayers/STL
+./Trashbin Trident/VoronBFI/usermods/DonaldSayers/STL/45d-V2.4_Housing_x2.stl.stl
+./Trashbin Trident/VoronBFI/usermods/DonaldSayers/STL/[a] 45d-V2.4_Belt_Clamp_x4.stl.stl
+./Trashbin Trident/VoronBFI/usermods/MikeYankeeOscarBeta
+./Trashbin Trident/VoronBFI/usermods/MikeYankeeOscarBeta/readme.md
+./Trashbin Trident/VoronBFI/usermods/MikeYankeeOscarBeta/MikeYankeOscarBeta voron 2.4 9mm BFI for 9mm belts and 5x22mm pins
+./Trashbin Trident/VoronBFI/usermods/MikeYankeeOscarBeta/MikeYankeOscarBeta voron 2.4 9mm BFI for 9mm belts and 5x22mm pins/CAD
+./Trashbin Trident/VoronBFI/usermods/MikeYankeeOscarBeta/MikeYankeOscarBeta voron 2.4 9mm BFI for 9mm belts and 5x22mm pins/CAD/v1
+./Trashbin Trident/VoronBFI/usermods/MikeYankeeOscarBeta/MikeYankeOscarBeta voron 2.4 9mm BFI for 9mm belts and 5x22mm pins/CAD/v1/VoronBFI_for_9mm_belts v26.step
+./Trashbin Trident/VoronBFI/usermods/MikeYankeeOscarBeta/MikeYankeOscarBeta voron 2.4 9mm BFI for 9mm belts and 5x22mm pins/CAD/v1/VoronBFI_for_9mm_belts v26.f3d
+./Trashbin Trident/VoronBFI/usermods/MikeYankeeOscarBeta/MikeYankeOscarBeta voron 2.4 9mm BFI for 9mm belts and 5x22mm pins/STLs
+./Trashbin Trident/VoronBFI/usermods/MikeYankeeOscarBeta/MikeYankeOscarBeta voron 2.4 9mm BFI for 9mm belts and 5x22mm pins/STLs/BFI_v1
+./Trashbin Trident/VoronBFI/usermods/MikeYankeeOscarBeta/MikeYankeOscarBeta voron 2.4 9mm BFI for 9mm belts and 5x22mm pins/STLs/BFI_v1/V2_BFI_Housing_9mm_Belt_v1_x2.stl
+./Trashbin Trident/VoronBFI/usermods/MikeYankeeOscarBeta/MikeYankeOscarBeta voron 2.4 9mm BFI for 9mm belts and 5x22mm pins/STLs/BFI_v1/V2_BFI_Front_Idler_5mmPin_9mm_Belt_v1_x2.stl
+./Trashbin Trident/VoronBFI/usermods/MikeYankeeOscarBeta/MikeYankeOscarBeta voron 2.4 9mm BFI for 9mm belts and 5x22mm pins/STLs/BFI_v1/V2_BFI_Front_Cover _9mm_Belt_v1_x2.stl
+./Trashbin Trident/VoronBFI/usermods/Mosher
+./Trashbin Trident/VoronBFI/usermods/Mosher/BZI Light Idlers
+./Trashbin Trident/VoronBFI/usermods/Mosher/BZI Light Idlers/README.md
+./Trashbin Trident/VoronBFI/usermods/Mosher/BZI Light Idlers/Carrier
+./Trashbin Trident/VoronBFI/usermods/Mosher/BZI Light Idlers/Carrier/README.md
+./Trashbin Trident/VoronBFI/usermods/Mosher/BZI Light Idlers/Carrier/STLs
+./Trashbin Trident/VoronBFI/usermods/Mosher/BZI Light Idlers/Carrier/STLs/README.md
+./Trashbin Trident/VoronBFI/usermods/Mosher/BZI Light Idlers/Carrier/STLs/Carrier countersunk M3 for 20mm shaft x4.stl
+./Trashbin Trident/VoronBFI/usermods/Mosher/BZI Light Idlers/Carrier/STLs/Carrier for 22mm shaft x4.stl
+./Trashbin Trident/VoronBFI/usermods/Mosher/BZI Light Idlers/Carrier/STLs/Carrier countersunk M3 for 22mm shaft x4.stl
+./Trashbin Trident/VoronBFI/usermods/Mosher/BZI Light Idlers/Carrier/STLs/Carrier for 20mm shaft x4.stl
+./Trashbin Trident/VoronBFI/usermods/Mosher/BZI Light Idlers/Main body
+./Trashbin Trident/VoronBFI/usermods/Mosher/BZI Light Idlers/Main body/README.md
+./Trashbin Trident/VoronBFI/usermods/Mosher/BZI Light Idlers/Main body/Simple
+./Trashbin Trident/VoronBFI/usermods/Mosher/BZI Light Idlers/Main body/Simple/README.md
+./Trashbin Trident/VoronBFI/usermods/Mosher/BZI Light Idlers/Main body/Simple/STLs
+./Trashbin Trident/VoronBFI/usermods/Mosher/BZI Light Idlers/Main body/Simple/STLs/README.md
+./Trashbin Trident/VoronBFI/usermods/Mosher/BZI Light Idlers/Main body/Simple/STLs/Left Z Idler body 6mm profile x2.stl
+./Trashbin Trident/VoronBFI/usermods/Mosher/BZI Light Idlers/Main body/Simple/STLs/Right Z Idler countersunk body 6mm profile x2.stl
+./Trashbin Trident/VoronBFI/usermods/Mosher/BZI Light Idlers/Main body/Simple/STLs/Right Z Idler body 6mm profile x2.stl
+./Trashbin Trident/VoronBFI/usermods/Mosher/BZI Light Idlers/Main body/Simple/STLs/Left Z Idler m3 heat insert body 6mm profile x2.stl
+./Trashbin Trident/VoronBFI/usermods/Mosher/BZI Light Idlers/Main body/Simple/STLs/Left Z Idler m3 heat insert countersunk body 6mm profile x2.stl
+./Trashbin Trident/VoronBFI/usermods/Mosher/BZI Light Idlers/Main body/Simple/STLs/Right Z Idler m3 heat insert body 5mm profile x2.stl
+./Trashbin Trident/VoronBFI/usermods/Mosher/BZI Light Idlers/Main body/Simple/STLs/Right Z Idler body 5mm profile x2.stl
+./Trashbin Trident/VoronBFI/usermods/Mosher/BZI Light Idlers/Main body/Simple/STLs/Left Z Idler countersunk body 6mm profile x2.stl
+./Trashbin Trident/VoronBFI/usermods/Mosher/BZI Light Idlers/Main body/Simple/STLs/Right Z Idler countersunk body 5mm profile x2.stl
+./Trashbin Trident/VoronBFI/usermods/Mosher/BZI Light Idlers/Main body/Simple/STLs/Right Z Idler m3 heat insert body 6mm profile x2.stl
+./Trashbin Trident/VoronBFI/usermods/Mosher/BZI Light Idlers/Main body/Simple/STLs/Left Z Idler countersunk body 5mm profile x2.stl
+./Trashbin Trident/VoronBFI/usermods/Mosher/BZI Light Idlers/Main body/Simple/STLs/Right Z Idler m3 heat insert countersunk body 5mm profile x2.stl
+./Trashbin Trident/VoronBFI/usermods/Mosher/BZI Light Idlers/Main body/Simple/STLs/Left Z Idler body 5mm profile x2.stl
+./Trashbin Trident/VoronBFI/usermods/Mosher/BZI Light Idlers/Main body/Simple/STLs/Left Z Idler m3 heat insert countersunk body 5mm profile x2.stl
+./Trashbin Trident/VoronBFI/usermods/Mosher/BZI Light Idlers/Main body/Simple/STLs/Right Z Idler m3 heat insert countersunk body 6mm profile x2.stl
+./Trashbin Trident/VoronBFI/usermods/Mosher/BZI Light Idlers/Main body/Simple/STLs/Left Z Idler m3 heat insert body 5mm profile x2.stl
+./Trashbin Trident/VoronBFI/usermods/Mosher/BZI Light Idlers/Main body/Two colored
+./Trashbin Trident/VoronBFI/usermods/Mosher/BZI Light Idlers/Main body/Two colored/README.md
+./Trashbin Trident/VoronBFI/usermods/Mosher/BZI Light Idlers/Main body/Two colored/STLs
+./Trashbin Trident/VoronBFI/usermods/Mosher/BZI Light Idlers/Main body/Two colored/STLs/README.md
+./Trashbin Trident/VoronBFI/usermods/Mosher/BZI Light Idlers/Main body/Two colored/STLs/Left Multi body Z Idler countersunk body 5mm profile x2.stl
+./Trashbin Trident/VoronBFI/usermods/Mosher/BZI Light Idlers/Main body/Two colored/STLs/Right Multi body Z Idler body 5mm profile x2.stl
+./Trashbin Trident/VoronBFI/usermods/Mosher/BZI Light Idlers/Main body/Two colored/STLs/Right Multi body Z Idler m3 heat insert countersunk body 5mm profile x2.stl
+./Trashbin Trident/VoronBFI/usermods/Mosher/BZI Light Idlers/Main body/Two colored/STLs/Left Multi body Z Idler m3 heat insert countersunk body 6mm profile x2.stl
+./Trashbin Trident/VoronBFI/usermods/Mosher/BZI Light Idlers/Main body/Two colored/STLs/Right Multi body Z Idler countersunk body 5mm profile x2.stl
+./Trashbin Trident/VoronBFI/usermods/Mosher/BZI Light Idlers/Main body/Two colored/STLs/Right Multi body Z Idler m3 heat insert body 6mm profile x2.stl
+./Trashbin Trident/VoronBFI/usermods/Mosher/BZI Light Idlers/Main body/Two colored/STLs/Left Multi body Z Idler m3 heat insert body 5mm profile x2.stl
+./Trashbin Trident/VoronBFI/usermods/Mosher/BZI Light Idlers/Main body/Two colored/STLs/Left Multi body Z Idler m3 heat insert body 6mm profile x2.stl
+./Trashbin Trident/VoronBFI/usermods/Mosher/BZI Light Idlers/Main body/Two colored/STLs/Left Multi body Z Idler body 5mm profile x2.stl
+./Trashbin Trident/VoronBFI/usermods/Mosher/BZI Light Idlers/Main body/Two colored/STLs/Left Multi body Z Idler countersunk body 6mm profile x2.stl
+./Trashbin Trident/VoronBFI/usermods/Mosher/BZI Light Idlers/Main body/Two colored/STLs/Right Multi body Z Idler m3 heat insert body 5mm profile x2.stl
+./Trashbin Trident/VoronBFI/usermods/Mosher/BZI Light Idlers/Main body/Two colored/STLs/Left Multi body Z Idler m3 heat insert countersunk body 5mm profile x2.stl
+./Trashbin Trident/VoronBFI/usermods/Mosher/BZI Light Idlers/Main body/Two colored/STLs/Left Multi body Z Idler body 6mm profile x2.stl
+./Trashbin Trident/VoronBFI/usermods/Mosher/BZI Light Idlers/Main body/Two colored/STLs/Right Multi body Z Idler body 6mm profile x2.stl
+./Trashbin Trident/VoronBFI/usermods/Mosher/BZI Light Idlers/Main body/Two colored/STLs/Right Multi body Z Idler countersunk body 6mm profile x2.stl
+./Trashbin Trident/VoronBFI/usermods/Mosher/BZI Light Idlers/Main body/Two colored/STLs/Right Multi body Z Idler m3 heat insert countersunk body 6mm profile x2.stl
+./Trashbin Trident/VoronBFI/usermods/Mastur_Mynd
+./Trashbin Trident/VoronBFI/usermods/Mastur_Mynd/V2.4
+./Trashbin Trident/VoronBFI/usermods/Mastur_Mynd/V2.4/CAD
+./Trashbin Trident/VoronBFI/usermods/Mastur_Mynd/V2.4/CAD/BFI-V2.4 Smooth.step
+./Trashbin Trident/VoronBFI/usermods/Mastur_Mynd/V2.4/STLs
+./Trashbin Trident/VoronBFI/usermods/Mastur_Mynd/V2.4/STLs/idler_housing_x2.stl
+./Trashbin Trident/VoronBFI/usermods/Mastur_Mynd/V2.4/STLs/[a]_idler_cover_plate_x2.stl
+./Trashbin Trident/VoronBFI/usermods/Mastur_Mynd/V2.4/STLs/[a]_belt_clamp_a_x2.stl
+./Trashbin Trident/VoronBFI/usermods/Mastur_Mynd/V2.4/STLs/[a]_tensioner_x2.stl
+./Trashbin Trident/VoronBFI/usermods/Mastur_Mynd/V2.4/STLs/[a]_idler_cap_x2.stl
+./Trashbin Trident/VoronBFI/usermods/Mastur_Mynd/V2.4/STLs/[a]_belt_clamp_b_x2.stl
+./Trashbin Trident/VoronBFI/usermods/Mastur_Mynd/V2.4/STLs/[a]_belt_clamp_rear_x2.stl
+./Trashbin Trident/VoronBFI/LICENSE.txt
+./Trashbin Trident/VoronBFI/.git
+./Trashbin Trident/VoronBFI/.git/hooks
+./Trashbin Trident/VoronBFI/.git/hooks/update.sample
+./Trashbin Trident/VoronBFI/.git/hooks/pre-commit.sample
+./Trashbin Trident/VoronBFI/.git/hooks/push-to-checkout.sample
+./Trashbin Trident/VoronBFI/.git/hooks/pre-push.sample
+./Trashbin Trident/VoronBFI/.git/hooks/post-update.sample
+./Trashbin Trident/VoronBFI/.git/hooks/prepare-commit-msg.sample
+./Trashbin Trident/VoronBFI/.git/hooks/commit-msg.sample
+./Trashbin Trident/VoronBFI/.git/hooks/pre-applypatch.sample
+./Trashbin Trident/VoronBFI/.git/hooks/fsmonitor-watchman.sample
+./Trashbin Trident/VoronBFI/.git/hooks/pre-receive.sample
+./Trashbin Trident/VoronBFI/.git/hooks/pre-merge-commit.sample
+./Trashbin Trident/VoronBFI/.git/hooks/applypatch-msg.sample
+./Trashbin Trident/VoronBFI/.git/hooks/pre-rebase.sample
+./Trashbin Trident/VoronBFI/.git/info
+./Trashbin Trident/VoronBFI/.git/info/exclude
+./Trashbin Trident/VoronBFI/.git/logs
+./Trashbin Trident/VoronBFI/.git/logs/HEAD
+./Trashbin Trident/VoronBFI/.git/logs/refs
+./Trashbin Trident/VoronBFI/.git/logs/refs/remotes
+./Trashbin Trident/VoronBFI/.git/logs/refs/remotes/origin
+./Trashbin Trident/VoronBFI/.git/logs/refs/remotes/origin/HEAD
+./Trashbin Trident/VoronBFI/.git/logs/refs/heads
+./Trashbin Trident/VoronBFI/.git/logs/refs/heads/main
+./Trashbin Trident/VoronBFI/.git/objects
+./Trashbin Trident/VoronBFI/.git/objects/info
+./Trashbin Trident/VoronBFI/.git/objects/pack
+./Trashbin Trident/VoronBFI/.git/objects/pack/pack-1d2a21da78611b1dd8b2875a6064a31054655649.idx
+./Trashbin Trident/VoronBFI/.git/objects/pack/pack-1d2a21da78611b1dd8b2875a6064a31054655649.pack
+./Trashbin Trident/VoronBFI/.git/description
+./Trashbin Trident/VoronBFI/.git/packed-refs
+./Trashbin Trident/VoronBFI/.git/HEAD
+./Trashbin Trident/VoronBFI/.git/config
+./Trashbin Trident/VoronBFI/.git/refs
+./Trashbin Trident/VoronBFI/.git/refs/remotes
+./Trashbin Trident/VoronBFI/.git/refs/remotes/origin
+./Trashbin Trident/VoronBFI/.git/refs/remotes/origin/HEAD
+./Trashbin Trident/VoronBFI/.git/refs/tags
+./Trashbin Trident/VoronBFI/.git/refs/heads
+./Trashbin Trident/VoronBFI/.git/refs/heads/main
+./Trashbin Trident/VoronBFI/.git/index
+./Trashbin Trident/VoronBFI/STLs
+./Trashbin Trident/VoronBFI/STLs/Trident
+./Trashbin Trident/VoronBFI/STLs/Trident/[a]_BFI-VT_Carrier_BHCS_x2.stl
+./Trashbin Trident/VoronBFI/STLs/Trident/BFI-VT_Housing_x2.stl
+./Trashbin Trident/VoronBFI/STLs/Trident/[a]_BFI-VT_Carrier_x2.stl
+./Trashbin Trident/VoronBFI/STLs/Trident/[a]_BFI-VT_Front_x2.stl
+./Trashbin Trident/VoronBFI/STLs/SaladFork
+./Trashbin Trident/VoronBFI/STLs/SaladFork/[a]_BFI-SaladFork_Front_x2.stl
+./Trashbin Trident/VoronBFI/STLs/SaladFork/BFI-SaladFork_Housing_x2.stl
+./Trashbin Trident/VoronBFI/STLs/SaladFork/[a]_BFI-SaladFork_Carrier_x2.stl
+./Trashbin Trident/VoronBFI/STLs/Micron
+./Trashbin Trident/VoronBFI/STLs/Micron/BFI
+./Trashbin Trident/VoronBFI/STLs/Micron/BFI/idler_housing_x2.stl
+./Trashbin Trident/VoronBFI/STLs/Micron/BFI/[a]_idler_carrier_x2.stl
+./Trashbin Trident/VoronBFI/STLs/Micron/BFI/[a]_front_cover_logo_x2.stl
+./Trashbin Trident/VoronBFI/STLs/Micron/BFI/[a]_front_cover_x2.stl
+./Trashbin Trident/VoronBFI/STLs/Micron/BFI/bfi_logo_insert_x2.stl
+./Trashbin Trident/VoronBFI/STLs/Micron/BZI
+./Trashbin Trident/VoronBFI/STLs/Micron/BZI/BearingStacks
+./Trashbin Trident/VoronBFI/STLs/Micron/BZI/BearingStacks/[a]_bottom_z_belt_clamp_x2.stl
+./Trashbin Trident/VoronBFI/STLs/Micron/BZI/BearingStacks/[a]_top_z_belt_clamp_x2.stl
+./Trashbin Trident/VoronBFI/STLs/Micron/BZI/BearingStacks/[a]_z_idler_carrier_bearing_stacks_x4.stl
+./Trashbin Trident/VoronBFI/STLs/Micron/BZI/BearingStacks/[a]_top_z_belt_clamp_mirror_x2.stl
+./Trashbin Trident/VoronBFI/STLs/Micron/BZI/BearingStacks/[a]_bottom_z_belt_clamp_mirror_x2.stl
+./Trashbin Trident/VoronBFI/STLs/Micron/BZI/ToothedIdler
+./Trashbin Trident/VoronBFI/STLs/Micron/BZI/ToothedIdler/[a]_z_belt_clamp_x4.stl
+./Trashbin Trident/VoronBFI/STLs/Micron/BZI/ToothedIdler/[a]_z_idler_carrier_x4.stl
+./Trashbin Trident/VoronBFI/STLs/Micron/BZI/ToothedIdler/[a]_z_belt_clamp_mirror_x4.stl
+./Trashbin Trident/VoronBFI/STLs/Micron/BZI/BZI_micron_idler_body_x4.stl
+./Trashbin Trident/VoronBFI/STLs/V2
+./Trashbin Trident/VoronBFI/STLs/V2/BFI
+./Trashbin Trident/VoronBFI/STLs/V2/BFI/BFI-V2.4_Housing_x2.stl
+./Trashbin Trident/VoronBFI/STLs/V2/BFI/[a]_BFI-V2.4_Carrier_BHCS_x2_.stl
+./Trashbin Trident/VoronBFI/STLs/V2/BFI/[a]_BFI-V2.4_Belt_Clamp_x2_AB_Drives.stl
+./Trashbin Trident/VoronBFI/STLs/V2/BFI/[a]_BFI-V2.4_Belt_Clamp_x4.stl
+./Trashbin Trident/VoronBFI/STLs/V2/BFI/[a]_BFI-V2.4_Front_x2.stl
+./Trashbin Trident/VoronBFI/STLs/V2/BFI/[a]_BFI-V2.4_Carrier_x2.stl
+./Trashbin Trident/VoronBFI/STLs/V2/BZI
+./Trashbin Trident/VoronBFI/STLs/V2/BZI/BZI_doom_idler_A_x2.stl
+./Trashbin Trident/VoronBFI/STLs/V2/BZI/BZI_doom_idler_B_x2.stl
+./Trashbin Trident/VoronBFI/STLs/V2/BZI/[a]_BZI_Doom_carrier_x4.stl
+./Trashbin Trident/VoronBFI/STLs/V2/BZI/BZI_V2.4_idler_body_x4.stl
+./Trashbin Trident/VoronBFI/STLs/V2/BZI/[a]_BZI_V2.4_carrier_x4.stl
+./Trashbin Trident/VoronBFI/images
+./Trashbin Trident/VoronBFI/images/BFI.png
+./Trashbin Trident/VoronBFI/images/cracked_rama.jpg
+./Trashbin Trident/VoronBFI/images/cracked_stock.jpg
+./Trashbin Trident/VoronBFI/images/BZI.png
+./Trashbin Trident/VoronBFI/docs
+./Trashbin Trident/VoronBFI/docs/Assembly_Manual_BZI.pdf
+./Trashbin Trident/VoronBFI/docs/Assembly_Manual_BFI.pdf
+./Trashbin Trident/2020v pinned gantry-2020v xy jointxy bottom.step
+./Trashbin Trident/mgn12 z rear bed support.step
+./Trashbin Trident/Voron-Tap
+./Trashbin Trident/Voron-Tap/CAD
+./Trashbin Trident/Voron-Tap/CAD/VORON_Tap_R8.step
+./Trashbin Trident/Voron-Tap/README.md
+./Trashbin Trident/Voron-Tap/.github
+./Trashbin Trident/Voron-Tap/.github/workflows
+./Trashbin Trident/Voron-Tap/.github/workflows/ci-build.yml
+./Trashbin Trident/Voron-Tap/.git
+./Trashbin Trident/Voron-Tap/.git/hooks
+./Trashbin Trident/Voron-Tap/.git/hooks/update.sample
+./Trashbin Trident/Voron-Tap/.git/hooks/pre-commit.sample
+./Trashbin Trident/Voron-Tap/.git/hooks/push-to-checkout.sample
+./Trashbin Trident/Voron-Tap/.git/hooks/pre-push.sample
+./Trashbin Trident/Voron-Tap/.git/hooks/post-update.sample
+./Trashbin Trident/Voron-Tap/.git/hooks/prepare-commit-msg.sample
+./Trashbin Trident/Voron-Tap/.git/hooks/commit-msg.sample
+./Trashbin Trident/Voron-Tap/.git/hooks/pre-applypatch.sample
+./Trashbin Trident/Voron-Tap/.git/hooks/fsmonitor-watchman.sample
+./Trashbin Trident/Voron-Tap/.git/hooks/pre-receive.sample
+./Trashbin Trident/Voron-Tap/.git/hooks/pre-merge-commit.sample
+./Trashbin Trident/Voron-Tap/.git/hooks/applypatch-msg.sample
+./Trashbin Trident/Voron-Tap/.git/hooks/pre-rebase.sample
+./Trashbin Trident/Voron-Tap/.git/info
+./Trashbin Trident/Voron-Tap/.git/info/exclude
+./Trashbin Trident/Voron-Tap/.git/logs
+./Trashbin Trident/Voron-Tap/.git/logs/HEAD
+./Trashbin Trident/Voron-Tap/.git/logs/refs
+./Trashbin Trident/Voron-Tap/.git/logs/refs/remotes
+./Trashbin Trident/Voron-Tap/.git/logs/refs/remotes/origin
+./Trashbin Trident/Voron-Tap/.git/logs/refs/remotes/origin/HEAD
+./Trashbin Trident/Voron-Tap/.git/logs/refs/heads
+./Trashbin Trident/Voron-Tap/.git/logs/refs/heads/main
+./Trashbin Trident/Voron-Tap/.git/objects
+./Trashbin Trident/Voron-Tap/.git/objects/info
+./Trashbin Trident/Voron-Tap/.git/objects/pack
+./Trashbin Trident/Voron-Tap/.git/objects/pack/pack-bc56c09fade7e652684fc9632857538849654828.pack
+./Trashbin Trident/Voron-Tap/.git/objects/pack/pack-bc56c09fade7e652684fc9632857538849654828.idx
+./Trashbin Trident/Voron-Tap/.git/description
+./Trashbin Trident/Voron-Tap/.git/packed-refs
+./Trashbin Trident/Voron-Tap/.git/HEAD
+./Trashbin Trident/Voron-Tap/.git/config
+./Trashbin Trident/Voron-Tap/.git/refs
+./Trashbin Trident/Voron-Tap/.git/refs/remotes
+./Trashbin Trident/Voron-Tap/.git/refs/remotes/origin
+./Trashbin Trident/Voron-Tap/.git/refs/remotes/origin/HEAD
+./Trashbin Trident/Voron-Tap/.git/refs/tags
+./Trashbin Trident/Voron-Tap/.git/refs/heads
+./Trashbin Trident/Voron-Tap/.git/refs/heads/main
+./Trashbin Trident/Voron-Tap/.git/index
+./Trashbin Trident/Voron-Tap/BOM.md
+./Trashbin Trident/Voron-Tap/OptoTap
+./Trashbin Trident/Voron-Tap/OptoTap/README.md
+./Trashbin Trident/Voron-Tap/OptoTap/Tap_Photosensor_PCB_v2
+./Trashbin Trident/Voron-Tap/OptoTap/Tap_Photosensor_PCB_v2/jlcpcb
+./Trashbin Trident/Voron-Tap/OptoTap/Tap_Photosensor_PCB_v2/jlcpcb/project.db
+./Trashbin Trident/Voron-Tap/OptoTap/Tap_Photosensor_PCB_v2/jlcpcb/production_files
+./Trashbin Trident/Voron-Tap/OptoTap/Tap_Photosensor_PCB_v2/jlcpcb/production_files/CPL-Tap_Photosensor_PCB.csv
+./Trashbin Trident/Voron-Tap/OptoTap/Tap_Photosensor_PCB_v2/jlcpcb/production_files/BOM-Tap_Photosensor_PCB.csv
+./Trashbin Trident/Voron-Tap/OptoTap/Tap_Photosensor_PCB_v2/jlcpcb/production_files/GERBER-Tap_Photosensor_PCB.zip
+./Trashbin Trident/Voron-Tap/OptoTap/Tap_Photosensor_PCB_v2/jlcpcb/gerber
+./Trashbin Trident/Voron-Tap/OptoTap/Tap_Photosensor_PCB_v2/jlcpcb/gerber/Tap_Photosensor_PCB-MaskBottom.gbr
+./Trashbin Trident/Voron-Tap/OptoTap/Tap_Photosensor_PCB_v2/jlcpcb/gerber/Tap_Photosensor_PCB-PTH.drl
+./Trashbin Trident/Voron-Tap/OptoTap/Tap_Photosensor_PCB_v2/jlcpcb/gerber/Tap_Photosensor_PCB-NPTH.drl
+./Trashbin Trident/Voron-Tap/OptoTap/Tap_Photosensor_PCB_v2/jlcpcb/gerber/Tap_Photosensor_PCB-SilkTop.gbr
+./Trashbin Trident/Voron-Tap/OptoTap/Tap_Photosensor_PCB_v2/jlcpcb/gerber/Tap_Photosensor_PCB-PTH-drl_map.pdf
+./Trashbin Trident/Voron-Tap/OptoTap/Tap_Photosensor_PCB_v2/jlcpcb/gerber/Tap_Photosensor_PCB-CuTop.gbr
+./Trashbin Trident/Voron-Tap/OptoTap/Tap_Photosensor_PCB_v2/jlcpcb/gerber/Tap_Photosensor_PCB-PasteBottom.gbr
+./Trashbin Trident/Voron-Tap/OptoTap/Tap_Photosensor_PCB_v2/jlcpcb/gerber/Tap_Photosensor_PCB-NPTH-drl_map.pdf
+./Trashbin Trident/Voron-Tap/OptoTap/Tap_Photosensor_PCB_v2/jlcpcb/gerber/Tap_Photosensor_PCB-EdgeCuts.gbr
+./Trashbin Trident/Voron-Tap/OptoTap/Tap_Photosensor_PCB_v2/jlcpcb/gerber/Tap_Photosensor_PCB-MaskTop.gbr
+./Trashbin Trident/Voron-Tap/OptoTap/Tap_Photosensor_PCB_v2/jlcpcb/gerber/Tap_Photosensor_PCB-CuBottom.gbr
+./Trashbin Trident/Voron-Tap/OptoTap/Tap_Photosensor_PCB_v2/jlcpcb/gerber/Tap_Photosensor_PCB-VScore.gbr
+./Trashbin Trident/Voron-Tap/OptoTap/Tap_Photosensor_PCB_v2/jlcpcb/gerber/Tap_Photosensor_PCB-SilkBottom.gbr
+./Trashbin Trident/Voron-Tap/OptoTap/Tap_Photosensor_PCB_v2/jlcpcb/gerber/Tap_Photosensor_PCB-PasteTop.gbr
+./Trashbin Trident/Voron-Tap/OptoTap/Tap_Photosensor_PCB_v2/Tap_Photosensor_PCB.kicad_pro
+./Trashbin Trident/Voron-Tap/OptoTap/Tap_Photosensor_PCB_v2/Tap_Photosensor_PCB.kicad_pcb
+./Trashbin Trident/Voron-Tap/OptoTap/Tap_Photosensor_PCB_v2/Tap_Photosensor_PCB.STEP
+./Trashbin Trident/Voron-Tap/OptoTap/Tap_Photosensor_PCB_v2/Tap_Photosensor_PCB_v2.4.STEP
+./Trashbin Trident/Voron-Tap/OptoTap/Tap_Photosensor_PCB_v2/Tap_Photosensor_PCB.kicad_sch
+./Trashbin Trident/Voron-Tap/OptoTap/STLs
+./Trashbin Trident/Voron-Tap/OptoTap/STLs/optotap_eeSX398_solder_jig.stl
+./Trashbin Trident/Voron-Tap/OptoTap/STLs/solder_jig.step
+./Trashbin Trident/Voron-Tap/OptoTap/images
+./Trashbin Trident/Voron-Tap/OptoTap/images/dfm_led.png
+./Trashbin Trident/Voron-Tap/OptoTap/images/optotap_v2.png
+./Trashbin Trident/Voron-Tap/OptoTap/images/optotap_v1.png
+./Trashbin Trident/Voron-Tap/OptoTap/images/photo_led.png
+./Trashbin Trident/Voron-Tap/OptoTap/images/led_blink.gif
+./Trashbin Trident/Voron-Tap/OptoTap/images/kicad_led.png
+./Trashbin Trident/Voron-Tap/OptoTap/images/led_circuit.png
+./Trashbin Trident/Voron-Tap/OptoTap/images/5v_led.png
+./Trashbin Trident/Voron-Tap/OptoTap/images/solder_bridge.png
+./Trashbin Trident/Voron-Tap/OptoTap/Tap_Photosensor_PCB_v1
+./Trashbin Trident/Voron-Tap/OptoTap/Tap_Photosensor_PCB_v1/Tap_Photosensor_PCB_Short_ee-sx.STEP
+./Trashbin Trident/Voron-Tap/OptoTap/Tap_Photosensor_PCB_v1/jlcpcb
+./Trashbin Trident/Voron-Tap/OptoTap/Tap_Photosensor_PCB_v1/jlcpcb/project.db
+./Trashbin Trident/Voron-Tap/OptoTap/Tap_Photosensor_PCB_v1/jlcpcb/production_files
+./Trashbin Trident/Voron-Tap/OptoTap/Tap_Photosensor_PCB_v1/jlcpcb/production_files/CPL-Tap_Photosensor_PCB.csv
+./Trashbin Trident/Voron-Tap/OptoTap/Tap_Photosensor_PCB_v1/jlcpcb/production_files/BOM-Tap_Photosensor_PCB.csv
+./Trashbin Trident/Voron-Tap/OptoTap/Tap_Photosensor_PCB_v1/jlcpcb/production_files/GERBER-Tap_Photosensor_PCB.zip
+./Trashbin Trident/Voron-Tap/OptoTap/Tap_Photosensor_PCB_v1/jlcpcb/gerber
+./Trashbin Trident/Voron-Tap/OptoTap/Tap_Photosensor_PCB_v1/jlcpcb/gerber/Tap_Photosensor_PCB-MaskBottom.gbr
+./Trashbin Trident/Voron-Tap/OptoTap/Tap_Photosensor_PCB_v1/jlcpcb/gerber/Tap_Photosensor_PCB-PTH.drl
+./Trashbin Trident/Voron-Tap/OptoTap/Tap_Photosensor_PCB_v1/jlcpcb/gerber/Tap_Photosensor_PCB-NPTH.drl
+./Trashbin Trident/Voron-Tap/OptoTap/Tap_Photosensor_PCB_v1/jlcpcb/gerber/Tap_Photosensor_PCB-SilkTop.gbr
+./Trashbin Trident/Voron-Tap/OptoTap/Tap_Photosensor_PCB_v1/jlcpcb/gerber/Tap_Photosensor_PCB-PTH-drl_map.pdf
+./Trashbin Trident/Voron-Tap/OptoTap/Tap_Photosensor_PCB_v1/jlcpcb/gerber/Tap_Photosensor_PCB-CuTop.gbr
+./Trashbin Trident/Voron-Tap/OptoTap/Tap_Photosensor_PCB_v1/jlcpcb/gerber/Tap_Photosensor_PCB-PasteBottom.gbr
+./Trashbin Trident/Voron-Tap/OptoTap/Tap_Photosensor_PCB_v1/jlcpcb/gerber/Tap_Photosensor_PCB-NPTH-drl_map.pdf
+./Trashbin Trident/Voron-Tap/OptoTap/Tap_Photosensor_PCB_v1/jlcpcb/gerber/Tap_Photosensor_PCB-EdgeCuts.gbr
+./Trashbin Trident/Voron-Tap/OptoTap/Tap_Photosensor_PCB_v1/jlcpcb/gerber/Tap_Photosensor_PCB-MaskTop.gbr
+./Trashbin Trident/Voron-Tap/OptoTap/Tap_Photosensor_PCB_v1/jlcpcb/gerber/Tap_Photosensor_PCB-CuBottom.gbr
+./Trashbin Trident/Voron-Tap/OptoTap/Tap_Photosensor_PCB_v1/jlcpcb/gerber/Tap_Photosensor_PCB-VScore.gbr
+./Trashbin Trident/Voron-Tap/OptoTap/Tap_Photosensor_PCB_v1/jlcpcb/gerber/Tap_Photosensor_PCB-SilkBottom.gbr
+./Trashbin Trident/Voron-Tap/OptoTap/Tap_Photosensor_PCB_v1/jlcpcb/gerber/Tap_Photosensor_PCB-PasteTop.gbr
+./Trashbin Trident/Voron-Tap/OptoTap/Tap_Photosensor_PCB_v1/Tap_Photosensor_PCB.kicad_pro
+./Trashbin Trident/Voron-Tap/OptoTap/Tap_Photosensor_PCB_v1/Tap_Photosensor_PCB.kicad_pcb
+./Trashbin Trident/Voron-Tap/OptoTap/Tap_Photosensor_PCB_v1/Tap_Photosensor_PCB.kicad_sch
+./Trashbin Trident/Voron-Tap/LICENSE
+./Trashbin Trident/Voron-Tap/STLs
+./Trashbin Trident/Voron-Tap/STLs/changelog.md
+./Trashbin Trident/Voron-Tap/STLs/Tap_Center_left_r8.stl
+./Trashbin Trident/Voron-Tap/STLs/MGN9_Assembly_Tool.stl
+./Trashbin Trident/Voron-Tap/STLs/Tap_Front_r8.stl
+./Trashbin Trident/Voron-Tap/STLs/Printed_Cut_Guide.stl
+./Trashbin Trident/Voron-Tap/STLs/Tap_Upper_PCB_r8.stl
+./Trashbin Trident/Voron-Tap/STLs/Tap_Center_right_r8.stl
+./Trashbin Trident/Voron-Tap/STLs/[a]_Tap_Center_r8.stl
+./Trashbin Trident/Voron-Tap/STLs/[a]_Tap_Belt_Cover_r8_x2.stl
+./Trashbin Trident/Voron-Tap/STLs/Tap_Upper_Wired_r8.stl
+./Trashbin Trident/Voron-Tap/STLs/Tap_Upper_D2HW_r8.stl
+./Trashbin Trident/Voron-Tap/images
+./Trashbin Trident/Voron-Tap/images/Voron-Tap.gif
+./Trashbin Trident/Voron-Tap/images/12_16_updatelog.png
+./Trashbin Trident/Voron-Tap/images/1_3_23_updatelog.png
+./Trashbin Trident/Voron-Tap/images/RC8
+./Trashbin Trident/Voron-Tap/images/RC8/RC8_rail.png
+./Trashbin Trident/Voron-Tap/images/RC8/RC8_changelog.png
+./Trashbin Trident/Voron-Tap/images/RC8/RC8_heatsets.png
+./Trashbin Trident/Voron-Tap/images/RC8/RC8_stiffeners.png
+./Trashbin Trident/Voron-Tap/images/RC8/RC8_beltclamp.png
+./Trashbin Trident/Voron-Tap/Manual
+./Trashbin Trident/Voron-Tap/Manual/Assembly_Manual_Tap.pdf
+./Trashbin Trident/Voron-Tap/Manual/R8_errata.md
+./Trashbin Trident/Voron-Tap/config
+./Trashbin Trident/Voron-Tap/config/tap_klipper_instructions.md
+./Trashbin Trident/Voron-Tap/.gitignore
+./Trashbin Trident/mgn12 z left bed support.3mf
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/CAD
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/CAD/Z_Idlers
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/CAD/Z_Idlers/z_Idler_pinned.step
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/CAD/Gantry
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/CAD/Gantry/Front_Idlers
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/CAD/Gantry/Front_Idlers/[a]_tensioner_right_pinned.step
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/CAD/Gantry/Front_Idlers/[a]_tensioner_left_pinned.step
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/CAD/Gantry/V24R2_Gantry_PinsMod.step
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/CAD/Gantry/TridentR1_Gantry_PinsMod.step
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/CAD/Gantry/X_Axis
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/CAD/Gantry/X_Axis/XY_Joints
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/CAD/Gantry/X_Axis/XY_Joints/xy_joint_right_pinned.step
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/CAD/Gantry/X_Axis/XY_Joints/xy_joint_left_pinned.step
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/CAD/Gantry/AB_Drive_Units
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/CAD/Gantry/AB_Drive_Units/a_drive_frame_lower_pinned.step
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/CAD/Gantry/AB_Drive_Units/b_drive_frame_upper_pinned.step
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/CAD/Gantry/AB_Drive_Units/b_drive_frame_lower_pinned.step
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/CAD/Gantry/AB_Drive_Units/a_drive_frame_upper_pinned.step
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/README.md
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/STLs
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/STLs/Z_Idlers
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/STLs/Z_Idlers/[a]_z_tensioner_x4_9mm_pinned.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/STLs/Z_Idlers/[a]_z_tensioner_x4_6mm_pinned.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/STLs/Gantry
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/STLs/Gantry/Front_Idlers
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/STLs/Gantry/Front_Idlers/[a]_a_tensioner_pinned.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/STLs/Gantry/Front_Idlers/Old(24r1)
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/STLs/Gantry/Front_Idlers/Old(24r1)/[a]_b_tensioner_pinned_24r2.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/STLs/Gantry/Front_Idlers/Old(24r1)/[a]_a_tensioner_pinned.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/STLs/Gantry/Front_Idlers/Old(24r1)/[a]_a_tensioner_pinned_24r2.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/STLs/Gantry/Front_Idlers/Old(24r1)/[a]_b_tensioner_pinned.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/STLs/Gantry/Front_Idlers/[a]_b_tensioner_pinned.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/STLs/Gantry/X_Axis
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/STLs/Gantry/X_Axis/XY_Joints
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/STLs/Gantry/X_Axis/XY_Joints/MGN12_xy_joint_left_upper_pinned.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/STLs/Gantry/X_Axis/XY_Joints/MGN12_xy_joint_right_lower_pinned.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/STLs/Gantry/X_Axis/XY_Joints/Old(24r1)
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/STLs/Gantry/X_Axis/XY_Joints/Old(24r1)/xy_joint_left_lower_pinned.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/STLs/Gantry/X_Axis/XY_Joints/Old(24r1)/MGN12_xy_joint_right_lower_pinned_no_wire_path.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/STLs/Gantry/X_Axis/XY_Joints/Old(24r1)/MGN12_xy_joint_left_upper_pinned.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/STLs/Gantry/X_Axis/XY_Joints/Old(24r1)/MGN12_xy_joint_right_lower_pinned.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/STLs/Gantry/X_Axis/XY_Joints/Old(24r1)/MGN12_xy_joint_left_upper_pinned_24r2.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/STLs/Gantry/X_Axis/XY_Joints/Old(24r1)/xy_joint_right_lower_pinned.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/STLs/Gantry/X_Axis/XY_Joints/Old(24r1)/MGN12_xy_joint_right_upper_pinned_24r2.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/STLs/Gantry/X_Axis/XY_Joints/Old(24r1)/MGN12_xy_joint_right_lower_pinned_24r2.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/STLs/Gantry/X_Axis/XY_Joints/Old(24r1)/xy_joint_left_upper_pinned.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/STLs/Gantry/X_Axis/XY_Joints/Old(24r1)/MGN12_xy_joint_right_upper_pinned_no_wire_path.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/STLs/Gantry/X_Axis/XY_Joints/Old(24r1)/xy_joint_right_upper_pinned.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/STLs/Gantry/X_Axis/XY_Joints/Old(24r1)/MGN12_xy_joint_left_lower_pinned.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/STLs/Gantry/X_Axis/XY_Joints/Old(24r1)/MGN12_xy_joint_right_upper_pinned.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/STLs/Gantry/X_Axis/XY_Joints/Old(24r1)/MGN12_xy_joint_left_lower_pinned_24r2.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/STLs/Gantry/X_Axis/XY_Joints/MGN12_xy_joint_left_lower_pinned.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/STLs/Gantry/X_Axis/XY_Joints/MGN12_xy_joint_right_upper_pinned.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/STLs/Gantry/AB_Drive_Units
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/STLs/Gantry/AB_Drive_Units/Trident
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/STLs/Gantry/AB_Drive_Units/Trident/a_drive_frame_upper_pinned.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/STLs/Gantry/AB_Drive_Units/Trident/b_drive_frame_upper_pinned.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/STLs/Gantry/AB_Drive_Units/Trident/b_drive_frame_lower_pinned.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/STLs/Gantry/AB_Drive_Units/Trident/a_drive_frame_lower_pinned.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/STLs/Gantry/AB_Drive_Units/Trident/a_drive_frame_upper_with_jst_y_endstop_pinned.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/STLs/Gantry/AB_Drive_Units/V2
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/STLs/Gantry/AB_Drive_Units/V2/a_drive_frame_upper_pinned.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/STLs/Gantry/AB_Drive_Units/V2/b_drive_frame_upper_pinned.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/STLs/Gantry/AB_Drive_Units/V2/Old(24r1)
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/STLs/Gantry/AB_Drive_Units/V2/Old(24r1)/a_drive_frame_upper_pinned.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/STLs/Gantry/AB_Drive_Units/V2/Old(24r1)/a_drive_frame_upper_with_jst_y_endstop_pinned24r2.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/STLs/Gantry/AB_Drive_Units/V2/Old(24r1)/a_drive_frame_lower_pinned24r2.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/STLs/Gantry/AB_Drive_Units/V2/Old(24r1)/b_drive_frame_lower_pinned24r2.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/STLs/Gantry/AB_Drive_Units/V2/Old(24r1)/b_drive_frame_upper_pinned.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/STLs/Gantry/AB_Drive_Units/V2/Old(24r1)/b_drive_frame_lower_pinned.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/STLs/Gantry/AB_Drive_Units/V2/Old(24r1)/b_drive_frame_upper_pinned24r2.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/STLs/Gantry/AB_Drive_Units/V2/Old(24r1)/a_drive_frame_upper_pinned24r2.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/STLs/Gantry/AB_Drive_Units/V2/Old(24r1)/a_drive_frame_lower_pinned.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/STLs/Gantry/AB_Drive_Units/V2/Old(24r1)/a_drive_frame_upper_with_jst_y_endstop_pinned.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/STLs/Gantry/AB_Drive_Units/V2/b_drive_frame_lower_pinned.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/STLs/Gantry/AB_Drive_Units/V2/a_drive_frame_lower_pinned.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/STLs/Gantry/AB_Drive_Units/V2/a_drive_frame_upper_with_jst_y_endstop_pinned.stl
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/Images
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/Images/1.jpg
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/Images/ADrive
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/Images/ADrive/1.png
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/Images/ADrive/4.png
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/Images/ADrive/2.png
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/Images/ADrive/3.png
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/Images/2.jpg
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/Images/4.png
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/Images/2.png
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/Images/z.jpg
+./Trashbin Trident/Voron2.4 and Trident Pins Mod by hartk1213 2/Images/3.png
+./Trashbin Trident/trident pinned gantry original.20241230-201854.FCBak
+./Trashbin Trident/2020v ab drives-2020v pinned a drive lower.step
+./Trashbin Trident/2020v ab drives-2020v pinned b drive upper.step
+./Trashbin Trident/2020v pinned gantry-front idler2020v Front_Idler_bottom.step
+./Trashbin Trident/steps
+./Trashbin Trident/steps/mgn12h z carriage trim right.step
+./Trashbin Trident/steps/mgn12c carriage.step
+./Trashbin Trident/steps/standard parts and profiles-pinned b drive lower.step
+./Trashbin Trident/steps/rear 2 hole igus.step
+./Trashbin Trident/steps/pei plate references-Body.step
+./Trashbin Trident/steps/g35c bearing.step
+./Trashbin Trident/steps/standard parts and profiles-Front_Idler_top a.step
+./Trashbin Trident/steps/2020v drilling jig-drill guide 144mm.step
+./Trashbin Trident/steps/mgn12 z rear bed support.step
+./Trashbin Trident/steps/130mm spacer.step
+./Trashbin Trident/steps/standard parts and profiles-Front_Idler_bottom b.step
+./Trashbin Trident/steps/standard parts and profiles-b front idler tensioner.step
+./Trashbin Trident/steps/2020 vgroove 560.step
+./Trashbin Trident/steps/test2.step
+./Trashbin Trident/steps/beefy front idlers-2020v bfi tridentcarrier.step
+./Trashbin Trident/steps/standard parts and profiles-Front_Idler_top b.step
+./Trashbin Trident/steps/2020 vgrove-2020 vgrove 560.step
+./Trashbin Trident/steps/2020 vgrove-2020 vgrove 420.step
+./Trashbin Trident/steps/tap test.step
+./Trashbin Trident/steps/standard parts and profiles-pinned a drive upper.step
+./Trashbin Trident/steps/mgn12h z carriage right.step
+./Trashbin Trident/steps/2020 x440 vgroove.step
+./Trashbin Trident/steps/mgn12h z carriage trim left.step
+./Trashbin Trident/steps/2020 vgroove 420.step
+./Trashbin Trident/steps/mgn12h z carriage rear.step
+./Trashbin Trident/steps/2020 vgrove-2020 vgrove 440.step
+./Trashbin Trident/steps/2020v drilling jig-drill guide 144mm.dxf
+./Trashbin Trident/steps/mgn12h z carriage left.step
+./Trashbin Trident/steps/beefy front idlers-2020v bfi tridentidler upper.step
+./Trashbin Trident/steps/mgn12 z right bed support.step
+./Trashbin Trident/steps/2020 vgroove 440.step
+./Trashbin Trident/steps/standard parts and profiles-Front_Idler_bottom a.step
+./Trashbin Trident/steps/rear 3 hole generic.step
+./Trashbin Trident/steps/beefy front idlers-clip-in carrierBody.step
+./Trashbin Trident/steps/standard parts and profiles-pinned b drive upper.step
+./Trashbin Trident/steps/standard parts and profiles-a front idler tensioner.step
+./Trashbin Trident/steps/beefy front idlers-2020v bfi tridentidler lower.step
+./Trashbin Trident/steps/2020 x420 vgroove.step
+./Trashbin Trident/steps/test.step
+./Trashbin Trident/steps/standard parts and profiles-pinned a drive lower.step
+./Trashbin Trident/Unnamed1.FCStd
+./Trashbin Trident/mgn12 z left bed support-right.step
+./Trashbin Trident/2020v pinned gantry-front idler2020v front idler top.step
+./Trashbin Trident/testing
+./Trashbin Trident/testing/geometry testing.20241217-085632.FCBak
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/CAD
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/CAD/Z_Idlers
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/CAD/Z_Idlers/z_Idler_pinned.step
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/CAD/Gantry
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/CAD/Gantry/Front_Idlers
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/CAD/Gantry/Front_Idlers/[a]_tensioner_right_pinned.step
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/CAD/Gantry/Front_Idlers/[a]_tensioner_left_pinned.step
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/CAD/Gantry/V24R2_Gantry_PinsMod.step
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/CAD/Gantry/TridentR1_Gantry_PinsMod.step
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/CAD/Gantry/X_Axis
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/CAD/Gantry/X_Axis/XY_Joints
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/CAD/Gantry/X_Axis/XY_Joints/xy_joint_right_pinned.step
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/CAD/Gantry/X_Axis/XY_Joints/xy_joint_left_pinned.step
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/CAD/Gantry/TridentR1_Gantry_PinsMod v1.zip
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/CAD/Gantry/AB_Drive_Units
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/CAD/Gantry/AB_Drive_Units/a_drive_frame_lower_pinned.step
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/CAD/Gantry/AB_Drive_Units/b_drive_frame_upper_pinned.step
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/CAD/Gantry/AB_Drive_Units/b_drive_frame_lower_pinned.step
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/CAD/Gantry/AB_Drive_Units/a_drive_frame_upper_pinned.step
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/CAD/Gantry/TridentR1_Gantry_PinsMod v1
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/CAD/Gantry/TridentR1_Gantry_PinsMod v1/Part2.ipt
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/CAD/Gantry/TridentR1_Gantry_PinsMod v1/TridentR1_Gantry_PinsMod.iam
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/CAD/Gantry/TridentR1_Gantry_PinsMod v1/B_Drive.iam
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/CAD/Gantry/TridentR1_Gantry_PinsMod v1/A_B Drives.iam
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/CAD/Gantry/TridentR1_Gantry_PinsMod b drive bottom.step
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/README.md
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/STLs
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Z_Idlers
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Z_Idlers/[a]_z_tensioner_x4_9mm_pinned.stl
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Z_Idlers/[a]_z_tensioner_x4_6mm_pinned.stl
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/Front_Idlers
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/Front_Idlers/[a]_a_tensioner_pinned.stl
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/Front_Idlers/Old(24r1)
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/Front_Idlers/Old(24r1)/[a]_b_tensioner_pinned_24r2.stl
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/Front_Idlers/Old(24r1)/[a]_a_tensioner_pinned.stl
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/Front_Idlers/Old(24r1)/[a]_a_tensioner_pinned_24r2.stl
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/Front_Idlers/Old(24r1)/[a]_b_tensioner_pinned.stl
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/Front_Idlers/[a]_b_tensioner_pinned.stl
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/X_Axis
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/X_Axis/XY_Joints
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/X_Axis/XY_Joints/MGN12_xy_joint_left_upper_pinned.stl
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/X_Axis/XY_Joints/MGN12_xy_joint_right_lower_pinned.stl
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/X_Axis/XY_Joints/Old(24r1)
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/X_Axis/XY_Joints/Old(24r1)/xy_joint_left_lower_pinned.stl
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/X_Axis/XY_Joints/Old(24r1)/MGN12_xy_joint_right_lower_pinned_no_wire_path.stl
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/X_Axis/XY_Joints/Old(24r1)/MGN12_xy_joint_left_upper_pinned.stl
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/X_Axis/XY_Joints/Old(24r1)/MGN12_xy_joint_right_lower_pinned.stl
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/X_Axis/XY_Joints/Old(24r1)/MGN12_xy_joint_left_upper_pinned_24r2.stl
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/X_Axis/XY_Joints/Old(24r1)/xy_joint_right_lower_pinned.stl
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/X_Axis/XY_Joints/Old(24r1)/MGN12_xy_joint_right_upper_pinned_24r2.stl
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/X_Axis/XY_Joints/Old(24r1)/MGN12_xy_joint_right_lower_pinned_24r2.stl
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/X_Axis/XY_Joints/Old(24r1)/xy_joint_left_upper_pinned.stl
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/X_Axis/XY_Joints/Old(24r1)/MGN12_xy_joint_right_upper_pinned_no_wire_path.stl
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/X_Axis/XY_Joints/Old(24r1)/xy_joint_right_upper_pinned.stl
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/X_Axis/XY_Joints/Old(24r1)/MGN12_xy_joint_left_lower_pinned.stl
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/X_Axis/XY_Joints/Old(24r1)/MGN12_xy_joint_right_upper_pinned.stl
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/X_Axis/XY_Joints/Old(24r1)/MGN12_xy_joint_left_lower_pinned_24r2.stl
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/X_Axis/XY_Joints/MGN12_xy_joint_left_lower_pinned.stl
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/X_Axis/XY_Joints/MGN12_xy_joint_right_upper_pinned.stl
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/AB_Drive_Units
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/AB_Drive_Units/Trident
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/AB_Drive_Units/Trident/a_drive_frame_upper_pinned.stl
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/AB_Drive_Units/Trident/b_drive_frame_upper_pinned.stl
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/AB_Drive_Units/Trident/b_drive_frame_lower_pinned.stl
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/AB_Drive_Units/Trident/a_drive_frame_lower_pinned.stl
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/AB_Drive_Units/Trident/a_drive_frame_upper_with_jst_y_endstop_pinned.stl
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/AB_Drive_Units/V2
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/AB_Drive_Units/V2/a_drive_frame_upper_pinned.stl
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/AB_Drive_Units/V2/b_drive_frame_upper_pinned.stl
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/AB_Drive_Units/V2/Old(24r1)
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/AB_Drive_Units/V2/Old(24r1)/a_drive_frame_upper_pinned.stl
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/AB_Drive_Units/V2/Old(24r1)/a_drive_frame_upper_with_jst_y_endstop_pinned24r2.stl
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/AB_Drive_Units/V2/Old(24r1)/a_drive_frame_lower_pinned24r2.stl
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/AB_Drive_Units/V2/Old(24r1)/b_drive_frame_lower_pinned24r2.stl
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/AB_Drive_Units/V2/Old(24r1)/b_drive_frame_upper_pinned.stl
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/AB_Drive_Units/V2/Old(24r1)/b_drive_frame_lower_pinned.stl
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/AB_Drive_Units/V2/Old(24r1)/b_drive_frame_upper_pinned24r2.stl
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/AB_Drive_Units/V2/Old(24r1)/a_drive_frame_upper_pinned24r2.stl
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/AB_Drive_Units/V2/Old(24r1)/a_drive_frame_lower_pinned.stl
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/AB_Drive_Units/V2/Old(24r1)/a_drive_frame_upper_with_jst_y_endstop_pinned.stl
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/AB_Drive_Units/V2/b_drive_frame_lower_pinned.stl
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/AB_Drive_Units/V2/a_drive_frame_lower_pinned.stl
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/STLs/Gantry/AB_Drive_Units/V2/a_drive_frame_upper_with_jst_y_endstop_pinned.stl
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/Images
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/Images/1.jpg
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/Images/ADrive
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/Images/ADrive/1.png
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/Images/ADrive/4.png
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/Images/ADrive/2.png
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/Images/ADrive/3.png
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/Images/2.jpg
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/Images/4.png
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/Images/2.png
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/Images/z.jpg
+./Trashbin Trident/testing/Voron2.4 and Trident Pins Mod by hartk1213/Images/3.png
+./Trashbin Trident/testing/geometry testing.FCStd
+./Trashbin Trident/testing/pad out.step.zip
+./Trashbin Trident/testing/Trident_Assembly b drive lower.step
+./Trashbin Trident/testing/pad in.step
+./Trashbin Trident/testing/pad out.step
+./Voron-Trident
+./Voron-Trident/CAD
+./Voron-Trident/CAD/Trident_Assembly.step
+./Voron-Trident/CAD/Trident_Assembly.f3d
+./Voron-Trident/CAD/Trident_Assembly_STEP.zip
+./Voron-Trident/README.md
+./Voron-Trident/.github
+./Voron-Trident/.github/workflows
+./Voron-Trident/.github/workflows/ci-build.yml
+./Voron-Trident/.git
+./Voron-Trident/.git/hooks
+./Voron-Trident/.git/hooks/update.sample
+./Voron-Trident/.git/hooks/pre-commit.sample
+./Voron-Trident/.git/hooks/push-to-checkout.sample
+./Voron-Trident/.git/hooks/pre-push.sample
+./Voron-Trident/.git/hooks/post-update.sample
+./Voron-Trident/.git/hooks/prepare-commit-msg.sample
+./Voron-Trident/.git/hooks/commit-msg.sample
+./Voron-Trident/.git/hooks/pre-applypatch.sample
+./Voron-Trident/.git/hooks/fsmonitor-watchman.sample
+./Voron-Trident/.git/hooks/pre-receive.sample
+./Voron-Trident/.git/hooks/pre-merge-commit.sample
+./Voron-Trident/.git/hooks/applypatch-msg.sample
+./Voron-Trident/.git/hooks/pre-rebase.sample
+./Voron-Trident/.git/info
+./Voron-Trident/.git/info/exclude
+./Voron-Trident/.git/logs
+./Voron-Trident/.git/logs/HEAD
+./Voron-Trident/.git/logs/refs
+./Voron-Trident/.git/logs/refs/remotes
+./Voron-Trident/.git/logs/refs/remotes/origin
+./Voron-Trident/.git/logs/refs/remotes/origin/HEAD
+./Voron-Trident/.git/logs/refs/heads
+./Voron-Trident/.git/logs/refs/heads/main
+./Voron-Trident/.git/objects
+./Voron-Trident/.git/objects/info
+./Voron-Trident/.git/objects/pack
+./Voron-Trident/.git/objects/pack/pack-52ff530e5a971c7d16af6782aecf742dc5467149.idx
+./Voron-Trident/.git/objects/pack/pack-52ff530e5a971c7d16af6782aecf742dc5467149.pack
+./Voron-Trident/.git/description
+./Voron-Trident/.git/packed-refs
+./Voron-Trident/.git/HEAD
+./Voron-Trident/.git/config
+./Voron-Trident/.git/refs
+./Voron-Trident/.git/refs/remotes
+./Voron-Trident/.git/refs/remotes/origin
+./Voron-Trident/.git/refs/remotes/origin/HEAD
+./Voron-Trident/.git/refs/tags
+./Voron-Trident/.git/refs/heads
+./Voron-Trident/.git/refs/heads/main
+./Voron-Trident/.git/index
+./Voron-Trident/LICENSE
+./Voron-Trident/Drawings_DXFs
+./Voron-Trident/Drawings_DXFs/Build_Plate
+./Voron-Trident/Drawings_DXFs/Build_Plate/MIC6_Bed_250.step
+./Voron-Trident/Drawings_DXFs/Build_Plate/VRN-BP-VT-250-R0_-_VORON_Trident_Build_Plate_250mm.pdf
+./Voron-Trident/Drawings_DXFs/Build_Plate/MIC6_Bed_350.step
+./Voron-Trident/Drawings_DXFs/Build_Plate/VRN-BP-VT-300-R0_-_VORON_Trident_Build_Plate_300mm.pdf
+./Voron-Trident/Drawings_DXFs/Build_Plate/MIC6_Bed_300.step
+./Voron-Trident/Drawings_DXFs/Build_Plate/VRN-BP-VT-350-R0_-_VORON_Trident_Build_Plate_350mm.pdf
+./Voron-Trident/Drawings_DXFs/images
+./Voron-Trident/Drawings_DXFs/images/readme.md
+./Voron-Trident/Drawings_DXFs/images/voron_trident_SB.png
+./Voron-Trident/Drawings_DXFs/Panels
+./Voron-Trident/Drawings_DXFs/Panels/250_rear.dxf
+./Voron-Trident/Drawings_DXFs/Panels/350_bottom.dxf
+./Voron-Trident/Drawings_DXFs/Panels/300_rear.dxf
+./Voron-Trident/Drawings_DXFs/Panels/350_deck.dxf
+./Voron-Trident/Drawings_DXFs/Panels/250_deck.dxf
+./Voron-Trident/Drawings_DXFs/Panels/250_bottom.dxf
+./Voron-Trident/Drawings_DXFs/Panels/300_deck.dxf
+./Voron-Trident/Drawings_DXFs/Panels/350_rear.dxf
+./Voron-Trident/Drawings_DXFs/Panels/300_bottom.dxf
+./Voron-Trident/STLs
+./Voron-Trident/STLs/ElectronicsBay
+./Voron-Trident/STLs/ElectronicsBay/Controller_Mounts
+./Voron-Trident/STLs/ElectronicsBay/Controller_Mounts/SKR_bracket_inline_set.stl
+./Voron-Trident/STLs/ElectronicsBay/Controller_Mounts/Duet2_Duet3Mini5_bracket_set.stl
+./Voron-Trident/STLs/ElectronicsBay/Controller_Mounts/GTR_bracket_set.stl
+./Voron-Trident/STLs/ElectronicsBay/Controller_Mounts/Spider_bracket_set.stl
+./Voron-Trident/STLs/ElectronicsBay/Controller_Mounts/Octopus_bracket_set.stl
+./Voron-Trident/STLs/ElectronicsBay/Controller_Mounts/BTT_MOT_EXP_bracket.stl
+./Voron-Trident/STLs/ElectronicsBay/Controller_Mounts/S6_bracket_set.stl
+./Voron-Trident/STLs/ElectronicsBay/Controller_Mounts/SKR_Pro_bracket_set.stl
+./Voron-Trident/STLs/ElectronicsBay/Controller_Mounts/BIGDIPPER_bracket_set.stl
+./Voron-Trident/STLs/ElectronicsBay/cable_frame_anchor_x6.stl
+./Voron-Trident/STLs/ElectronicsBay/deck_support_4mm_optional_x6.stl
+./Voron-Trident/STLs/ElectronicsBay/lrs_psu_bracket_x2.stl
+./Voron-Trident/STLs/ElectronicsBay/Other_PS_Mounts
+./Voron-Trident/STLs/ElectronicsBay/Other_PS_Mounts/UHP_200_Mount_x2.stl
+./Voron-Trident/STLs/ElectronicsBay/Other_PS_Mounts/UHP_350_Mount_x2.stl
+./Voron-Trident/STLs/ElectronicsBay/wago_221-415_corner_mount.stl
+./Voron-Trident/STLs/ElectronicsBay/PSU_stabilizer_50mm.stl
+./Voron-Trident/STLs/ElectronicsBay/DIN_frame_mount_x4.stl
+./Voron-Trident/STLs/ElectronicsBay/raspberrypi_bracket.stl
+./Voron-Trident/STLs/ElectronicsBay/pcb_din_clip_x3.stl
+./Voron-Trident/STLs/ElectronicsBay/rs25_psu_bracket.stl
+./Voron-Trident/STLs/ElectronicsBay/deck_support_3mm_optional_x6.stl
+./Voron-Trident/STLs/ElectronicsBay/DIN_center_support_x2.stl
+./Voron-Trident/STLs/readme.md
+./Voron-Trident/STLs/Skirt
+./Voron-Trident/STLs/Skirt/side_fan_support_x2.stl
+./Voron-Trident/STLs/Skirt/keystone_panel.stl
+./Voron-Trident/STLs/Skirt/[a]_corner_baseplate_b_x2.stl
+./Voron-Trident/STLs/Skirt/[a]_corner_baseplate_a_x2.stl
+./Voron-Trident/STLs/Skirt/[a]_mini12864_case_hinge.stl
+./Voron-Trident/STLs/Skirt/mini12864_case_rear.stl
+./Voron-Trident/STLs/Skirt/[a]_keystone_blank_insert_x2.stl
+./Voron-Trident/STLs/Skirt/[a]_fan_grill_retainer_x2.stl
+./Voron-Trident/STLs/Skirt/[a]_fan_grill_b_x2.stl
+./Voron-Trident/STLs/Skirt/power_inlet_adamstech.stl
+./Voron-Trident/STLs/Skirt/[a]_mini12864_case_front_insert.stl
+./Voron-Trident/STLs/Skirt/[a]_fan_grill_open_optional_x2.stl
+./Voron-Trident/STLs/Skirt/[a]_skirt_logo_x2.stl
+./Voron-Trident/STLs/Skirt/corner_b_x2.stl
+./Voron-Trident/STLs/Skirt/mini12864_case_front.stl
+./Voron-Trident/STLs/Skirt/corner_a_x2.stl
+./Voron-Trident/STLs/Skirt/300
+./Voron-Trident/STLs/Skirt/300/front_skirt_b_300.stl
+./Voron-Trident/STLs/Skirt/300/front_skirt_a_300.stl
+./Voron-Trident/STLs/Skirt/300/side_skirt_a_300_x2.stl
+./Voron-Trident/STLs/Skirt/300/side_skirt_b_300_x2.stl
+./Voron-Trident/STLs/Skirt/300/rear_center_skirt_300.stl
+./Voron-Trident/STLs/Skirt/250
+./Voron-Trident/STLs/Skirt/250/side_skirt_a_250_x2.stl
+./Voron-Trident/STLs/Skirt/250/side_skirt_b_250_x2.stl
+./Voron-Trident/STLs/Skirt/250/front_skirt_b_250.stl
+./Voron-Trident/STLs/Skirt/250/rear_center_skirt_250.stl
+./Voron-Trident/STLs/Skirt/250/front_skirt_a_250.stl
+./Voron-Trident/STLs/Skirt/[a]_btt_knob_light_shield.stl
+./Voron-Trident/STLs/Skirt/power_inlet_filtered.stl
+./Voron-Trident/STLs/Skirt/350
+./Voron-Trident/STLs/Skirt/350/front_skirt_a_350.stl
+./Voron-Trident/STLs/Skirt/350/side_skirt_b_350_x2.stl
+./Voron-Trident/STLs/Skirt/350/front_skirt_b_350.stl
+./Voron-Trident/STLs/Skirt/350/side_skirt_a_350_x2.stl
+./Voron-Trident/STLs/Skirt/350/rear_center_skirt_350.stl
+./Voron-Trident/STLs/Skirt/[a]_fan_grill_a_x2.stl
+./Voron-Trident/STLs/Exhaust_Filter
+./Voron-Trident/STLs/Exhaust_Filter/exhaust_filter_housing.stl
+./Voron-Trident/STLs/Exhaust_Filter/[a]_exhaust_filter_mount_x2.stl
+./Voron-Trident/STLs/Exhaust_Filter/[a]_exhaust_fan_grill.stl
+./Voron-Trident/STLs/Exhaust_Filter/[a]_filter_access_cover.stl
+./Voron-Trident/STLs/Exhaust_Filter/exhaust_filter_grill.stl
+./Voron-Trident/STLs/Z_Assembly
+./Voron-Trident/STLs/Z_Assembly/wago_221-412_mount.stl
+./Voron-Trident/STLs/Z_Assembly/z_carriage_rear_2hole.stl
+./Voron-Trident/STLs/Z_Assembly/[a]_z_rail_stop_x3.stl
+./Voron-Trident/STLs/Z_Assembly/z_rear_extrusionbracket_left.stl
+./Voron-Trident/STLs/Z_Assembly/z_carriage_right.stl
+./Voron-Trident/STLs/Z_Assembly/z_bed_rear.stl
+./Voron-Trident/STLs/Z_Assembly/z_stepper_rear.stl
+./Voron-Trident/STLs/Z_Assembly/z_stepper_right.stl
+./Voron-Trident/STLs/Z_Assembly/nozzle_probe.stl
+./Voron-Trident/STLs/Z_Assembly/z_bed_right.stl
+./Voron-Trident/STLs/Z_Assembly/z_carriage_left.stl
+./Voron-Trident/STLs/Z_Assembly/z_rear_extrusionbracket_right.stl
+./Voron-Trident/STLs/Z_Assembly/z_cable_chain_mount_2hole.stl
+./Voron-Trident/STLs/Z_Assembly/[a]_z_carriage_left.stl
+./Voron-Trident/STLs/Z_Assembly/z_bed_left.stl
+./Voron-Trident/STLs/Z_Assembly/[a]_z_carriage_right.stl
+./Voron-Trident/STLs/Z_Assembly/z_cable_chain_mount_3hole.stl
+./Voron-Trident/STLs/Z_Assembly/z_carriage_rear_3hole.stl
+./Voron-Trident/STLs/Z_Assembly/z_stepper_left.stl
+./Voron-Trident/STLs/Tools
+./Voron-Trident/STLs/Tools/10mm_extrusion_drill_guide.stl
+./Voron-Trident/STLs/Tools/MGN12_rail_guide_x2.stl
+./Voron-Trident/STLs/Tools/140mm_extrusion_drill_guide.stl
+./Voron-Trident/STLs/Tools/MGN9_rail_guide_x2.stl
+./Voron-Trident/STLs/Tools/110mm_Y_alignment_spacer_x2.stl
+./Voron-Trident/STLs/Tools/pulley_jig.stl
+./Voron-Trident/STLs/Gantry
+./Voron-Trident/STLs/Gantry/Front_Idlers
+./Voron-Trident/STLs/Gantry/Front_Idlers/front_idler_b_x2.stl
+./Voron-Trident/STLs/Gantry/Front_Idlers/[a]_tensioner_right.stl
+./Voron-Trident/STLs/Gantry/Front_Idlers/front_idler_a_x2.stl
+./Voron-Trident/STLs/Gantry/Front_Idlers/[a]_tensioner_left.stl
+./Voron-Trident/STLs/Gantry/X_Axis
+./Voron-Trident/STLs/Gantry/X_Axis/X_Carriage
+./Voron-Trident/STLs/Gantry/X_Axis/X_Carriage/x_frame_V2TR_MGN12_right.stl
+./Voron-Trident/STLs/Gantry/X_Axis/X_Carriage/pinda_adapter.stl
+./Voron-Trident/STLs/Gantry/X_Axis/X_Carriage/probe_retainer_bracket.stl
+./Voron-Trident/STLs/Gantry/X_Axis/X_Carriage/x_frame_V2TR_MGN12_left.stl
+./Voron-Trident/STLs/Gantry/X_Axis/X_Carriage/probe_retainer_bracket_9mm.stl
+./Voron-Trident/STLs/Gantry/X_Axis/XY_Joints
+./Voron-Trident/STLs/Gantry/X_Axis/XY_Joints/xy_joint_right_upper_MGN12.stl
+./Voron-Trident/STLs/Gantry/X_Axis/XY_Joints/[a]_xy_joint_cable_bridge_2hole.stl
+./Voron-Trident/STLs/Gantry/X_Axis/XY_Joints/xy_joint_right_lower_MGN12.stl
+./Voron-Trident/STLs/Gantry/X_Axis/XY_Joints/[a]_endstop_pod_hall_effect.stl
+./Voron-Trident/STLs/Gantry/X_Axis/XY_Joints/[a]_endstop_pod_D2F_switch.stl
+./Voron-Trident/STLs/Gantry/X_Axis/XY_Joints/xy_joint_left_lower_MGN12.stl
+./Voron-Trident/STLs/Gantry/X_Axis/XY_Joints/xy_joint_left_upper_MGN12.stl
+./Voron-Trident/STLs/Gantry/X_Axis/XY_Joints/[a]_xy_joint_cable_bridge_3hole.stl
+./Voron-Trident/STLs/Gantry/chain_wire_anchor_3hole_x2.stl
+./Voron-Trident/STLs/Gantry/AB_Drive_Units
+./Voron-Trident/STLs/Gantry/AB_Drive_Units/[a]_y_endstop_housing.stl
+./Voron-Trident/STLs/Gantry/AB_Drive_Units/b_drive_frame_upper.stl
+./Voron-Trident/STLs/Gantry/AB_Drive_Units/[a]_y_endstop_bumper.stl
+./Voron-Trident/STLs/Gantry/AB_Drive_Units/[a]_wire_cover.stl
+./Voron-Trident/STLs/Gantry/AB_Drive_Units/a_drive_frame_upper.stl
+./Voron-Trident/STLs/Gantry/AB_Drive_Units/b_drive_frame_lower.stl
+./Voron-Trident/STLs/Gantry/AB_Drive_Units/a_drive_frame_lower.stl
+./Voron-Trident/STLs/Gantry/chain_wire_anchor_a_3hole.stl
+./Voron-Trident/STLs/Spool_Management
+./Voron-Trident/STLs/Spool_Management/spool_holder.stl
+./Voron-Trident/STLs/Spool_Management/bowden_retainer.stl
+./Voron-Trident/STLs/Panels
+./Voron-Trident/STLs/Panels/bottom_panel_clip_x4.stl
+./Voron-Trident/STLs/Panels/bottom_panel_hinge_x2.stl
+./Voron-Trident/STLs/Panels/midspan_panel_clip_4mm_x7.stl
+./Voron-Trident/STLs/Panels/midspan_panel_clip_6mm_x8.stl
+./Voron-Trident/STLs/Panels/corner_panel_clip_4mm_x8.stl
+./Voron-Trident/STLs/Panels/Front_Doors
+./Voron-Trident/STLs/Panels/Front_Doors/door_hinge_x6.stl
+./Voron-Trident/STLs/Panels/Front_Doors/handle_b_x2.stl
+./Voron-Trident/STLs/Panels/Front_Doors/latch_x2.stl
+./Voron-Trident/STLs/Panels/Front_Doors/handle_a_x2.stl
+./Voron-Trident/STLs/Panels/wire_cover_left.stl
+./Voron-Trident/STLs/Panels/wire_cover_right.stl
+./Voron-Trident/STLs/Panels/corner_panel_clip_6mm_x8.stl
+./Voron-Trident/Manual
+./Voron-Trident/Manual/Frame_Upgrade_Trident.pdf
+./Voron-Trident/Manual/Assembly_Manual_Trident.pdf
+./Voron-Trident/Firmware
+./Voron-Trident/Firmware/Octopus
+./Voron-Trident/Firmware/Octopus/Trident_Octopus_Config.cfg
+./Voron-Trident/Firmware/M8P
+./Voron-Trident/Firmware/M8P/Trident_M8P_v1.0_config.cfg
+./Voron-Trident/Firmware/M8P/Trident_M8P_v2.0_config.cfg
+./Voron-Trident/Firmware/M8P/Trident_M8P_v1.1_config.cfg
+./Voron-Trident/Firmware/Kraken
+./Voron-Trident/Firmware/Kraken/Voron_Trident_Kraken_Config.cfg
+./Voron-Trident/Firmware/Voron_Trident_SKR14_EXPMOT.cfg
+./Voron-Trident/Firmware/Voron_Trident_SKR_1.3.cfg
+./Voron-Trident/.gitignore
+./trident gantry assembly.FCStd
+./voron trident.20241208-105154.FCBak
+./trimmed profile.dxf
+./mgn12 carrier.20241222-133455.FCBak
+./trident in freecad original.20241216-125646.FCBak
+./trashdent.FCStd
+./Assembly_Manual_Trident.pdf
+./standard parts and profiles.FCStd
+./voron trident.FCStd
+./mgn12 carrier.FCStd
+./2020v.dxf
+./Trashbin Assembly.20241213-133901.FCBak
+./trident in freecad original.FCStd
+./standard parts and profiles.20241214-135920.FCBak
+./mgn12 carrier-Body.step
+./trident gantry assembly.20241213-215618.FCBak
+./2020v ab drives-pinned b drive lower.step
+./2020v.FCStd
+./files.txt
